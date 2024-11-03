@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-0-2-jardin-digital/bienvenido-a-mi-jardin-digital/","tags":["CerebroDigital","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/1-0-2-jardin-digital/bienvenido-a-mi-jardin-digital/","tags":["CerebroDigital","gardenEntry"]}
 ---
 
 
@@ -13,7 +13,7 @@ Sobre todo esto hablo en este sitio. ¡Espero te sirva!
 
 # Dónde surgió mi inquietud
 
-![Foto 2 inicio presentación.jpg](/img/user/1.0.1.%20CEREBRO%20DIGITAL/T%C3%A9cnicas%20avanzadas%20de%20estudio%20y%20cerebro%20digital/Foto%202%20inicio%20presentaci%C3%B3n.jpg)
+![Foto 2 inicio presentación.jpg|400x300](/img/user/1.0.1.%20CEREBRO%20DIGITAL/T%C3%A9cnicas%20avanzadas%20de%20estudio%20y%20cerebro%20digital/Foto%202%20inicio%20presentaci%C3%B3n.jpg)
 
 Siempre me llamó la atención el modo en que captamos la información, y la utilidad práctica que le damos a través del tiempo. 
 Nos han enseñado que la lectura es una virtud por sí sola, pero no nos han advertido de algunos males que merman el rendimiento académico, y luego, profesional.
