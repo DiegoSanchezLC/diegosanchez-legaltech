@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-2-procesal/legislacion-actualizada/cpc-codigo-de-procedimiento-civil/","tags":["Procesal","Civil","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/1-2-procesal/legislacion-actualizada/cpc-codigo-de-procedimiento-civil/","tags":["Procesal","Civil"]}
 ---
 
 
