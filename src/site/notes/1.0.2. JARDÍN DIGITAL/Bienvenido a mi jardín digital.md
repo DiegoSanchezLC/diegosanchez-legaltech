@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-0-2-jardin-digital/bienvenido-a-mi-jardin-digital/","tags":["CerebroDigital","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/1-0-2-jardin-digital/bienvenido-a-mi-jardin-digital/","tags":["CerebroDigital","gardenEntry"]}
 ---
 
 
@@ -28,6 +28,7 @@ Entonces, necesitamos de métodos digitales para apoyar nuestras tareas de:
 3. Vincular ese conocimiento en forma simple o compleja;
 4. Memorizar esa información en un corto período de tiempo, para darle uso práctico después. 
 
+Estos son los que llamo "[[Los 4 momentos de la información\|Los 4 momentos de la información]]", una estructura que formulé para generar soluciones prácticas.
 # Crítica y propuesta
 
 Pienso que la educación tradicional falla respecto a los siguientes puntos:
