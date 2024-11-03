@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-0-2-jardin-digital/bienvenido-a-mi-jardin-digital/","tags":["CerebroDigital","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/1-0-2-jardin-digital/bienvenido-a-mi-jardin-digital/","tags":["CerebroDigital","gardenEntry"]}
 ---
 
 
@@ -27,6 +27,8 @@ Entonces, necesitamos de métodos digitales para apoyar nuestras tareas de:
 2. Almacenarla en forma útil y segura, de modo de conectar nuestro conocimiento;
 3. Vincular ese conocimiento en forma simple o compleja;
 4. Memorizar esa información en un corto período de tiempo, para darle uso práctico después. 
+
+# Crítica y propuesta
 
 Pienso que la educación tradicional falla respecto a los siguientes puntos:
 1. Condena a la mayoría de sus estudiantes a ser la sombra de aquellos que manejan los sistemas de gestión de conocimiento personal más avanzados, sean estos físicos o digitales;
