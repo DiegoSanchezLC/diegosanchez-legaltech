@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-0-2-jardin-digital/bienvenido-a-mi-jardin-digital/","tags":["CerebroDigital","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/1-0-2-jardin-digital/bienvenido-a-mi-jardin-digital/","tags":["CerebroDigital","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 
