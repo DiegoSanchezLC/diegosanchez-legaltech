@@ -47,9 +47,11 @@ NOTA: Véase el ##### ART 398 del Código Orgánico de Tribunales. NOTA 1 Véase
 
 ##### ART 7. 
 
-El poder para litigar se entenderá conferido para todo el juicio en que se presente, y aun cuando no exprese las facultades que se conceden, autorizará al procurador para tomar parte, del mismo modo que podría hacerlo el poderdante, en todos los trámites e incidentes del juicio y en todas las cuestiones que por vía de reconvención se promuevan, hasta la ejecución completa de la sentencia definitiva, salvo lo dispuesto en el ##### ART 4 o salvo que la ley exija intervención personal de la parte misma. Las cláusulas en que se nieguen o en que se limiten las facultades expresadas, son nulas. Podrá, asimismo, el procurador delegar el poder obligando al mandante, a menos que se le haya negado esta facultad.
+El poder para litigar se entenderá conferido para todo el juicio en que se presente, y aun cuando no exprese las facultades que se conceden, autorizará al procurador para tomar parte, del mismo modo que podría hacerlo el poderdante, en todos los trámites e incidentes del juicio y en todas las cuestiones que por vía de reconvención se promuevan, hasta la ejecución completa de la sentencia definitiva, salvo lo dispuesto en el ART 4 o salvo que la ley exija intervención personal de la parte misma. Las cláusulas en que se nieguen o en que se limiten las facultades expresadas, son nulas. Podrá, asimismo, el procurador delegar el poder obligando al mandante, a menos que se le haya negado esta facultad.
 
 Sin embargo, no se entenderán concedidas al procurador, sin expresa mención, las facultades de desistirse en primera instancia de la acción deducida, aceptar la demanda contraria, absolver posiciones, renunciar los recursos o los términos legales, transigir, comprometer, otorgar a los árbitros facultades de arbitradores, aprobar convenios y percibir.
+{ #46iyf}
+
 
 ##### ART 8. 
 
@@ -996,17 +998,22 @@ Si el juez no dicta sentencia dentro de este plazo, será amonestado por la Cort
 
 El tribunal dejará constancia en el estado diario electrónico a que se refiere el ##### ART 50 y en la carpeta electrónica, del hecho de haberse dictado sentencia definitiva, la que será notificada en la forma correspondiente.
 
+#### Regulación relación y alegatos
 ##### ART 163 . 
 
 En los tribunales colegiados se formará el día último hábil de cada semana una tabla de los asuntos que verá el tribunal en la semana siguiente, con expresión del nombre de las partes, en la forma en que aparezca en la carátula del respectivo expediente, del día en que cada uno deba tratarse y del número de orden que le corresponda.
 
 Esta tabla se fijará en lugar visible, y antes de que comience a tratar cada negocio, lo anunciará el tribunal, haciendo colocar al efecto en lugar conveniente el respectivo número de orden, el cual se mantendrá fijo hasta que se pase a otro asunto.
+{ #lurcef}
+
 
 NOTA Véase el Auto Acordado de la Corte de Apelaciones de Santiago, publicado el 19.08.1994.
 
 ##### ART 164 . 
 
 Las causas se verán en el día señalado. Si concluida la hora de audiencia, queda pendiente alguna y no se acuerda prorrogar el acto, se continuará en los días hábiles inmediatos hasta su terminación, sin necesidad de ponerla nuevamente en tabla.
+{ #pjum9}
+
 
 ##### ART 165. 
 
@@ -1035,6 +1042,8 @@ El derecho a suspender no procederá respecto del amparo; 6º Por tener alguno d
 El presidente respectivo podrá conceder la suspensión por una sola vez o simplemente retardar la vista, atendidas las circunstancias. En caso que un abogado tenga dos o más vistas en el mismo día y ante el mismo tribunal, en salas distintas, preferirá el amparo, luego la protección y en seguida la causa que se anuncie primero, retardándose o suspendiéndose las demás, según las circunstancias; y
 
 7º Por ordenarlo así el tribunal, por resolución fundada, al disponer la práctica de algún trámite que sea estrictamente indispensable cumplir en forma previa a la vista de la causa. La orden de traer algún expediente o documento a la vista, no suspenderá la vista de la causa y la resolución se cumplirá terminada ésta.
+{ #qzo6o}
+
 
 Las causas que salgan de tabla por cualquier motivo volverán a ella al lugar que tenían.
 
@@ -1072,7 +1081,7 @@ NOTA Véase el ##### ART 105 N* 3, del Código Orgánico de Tribunales.
 
 Toda resolución, de cualquiera clase que sea, deberá expresar en letras la fecha y lugar en que se expida, y llevará al pie la firma electrónica avanzada del juez o jueces que la dicten o intervengan en el acuerdo.
 
-Cuando después de acordada una resolución y siendo varios los jueces se imposibilite alguno de ellos para firmarla, bastará que se exprese esta circunstancia en el mismo fallo.
+Cuando después de acordada una resolución y siendo varios los jueces se imposibilite alguno de ellos para firmarla, bastará que se exprese esta circunstancia en el mismo fallo.  
 
 ##### ART 170 . 
 
@@ -1086,7 +1095,7 @@ Las sentencias definitivas de primera o de única instancia y las de segunda que
 
 4º Las consideraciones de hecho o de derecho que sirven de fundamento a la sentencia;
 
-5º La enunciación de las leyes, y en su defecto de los principios de equidad, con arreglo a los cuales se pronuncia el fallo; y
+5º La enunciación de las leyes, y en su defecto de los principios de equidad, con arreglo a los cuales se pronuncia el fallo; y 
 
 6º La decisión del asunto controvertido. Esta decisión deberá comprender todas las acciones y excepciones que se hayan hecho valer en el juicio; pero podrá omitirse la resolución de aquellas que sean incompatibles con las aceptadas.
 
@@ -1248,15 +1257,21 @@ Las declaraciones que haga el superior en conformidad a los dos incisos anterior
 
 ##### ART 197. 
 
-La resolución que conceda una apelación se entenderá notificada a las partes conforme al ##### ART 50. El tribunal remitirá electrónicamente al tribunal de alzada copia fiel de la resolución apelada, del recurso y de todos los antecedentes que fueren pertinentes para un acabado pronunciamiento sobre éste.
+La resolución que conceda una apelación se entenderá notificada a las partes conforme al ART 50. El tribunal remitirá electrónicamente al tribunal de alzada copia fiel de la resolución apelada, del recurso y de todos los antecedentes que fueren pertinentes para un acabado pronunciamiento sobre éste.
 
-Recibidos los antecedentes referidos en el inciso anterior, la Corte de Apelaciones procederá a la asignación de un número de ingreso. Acto seguido, formará un cuaderno electrónico separado para el conocimiento y fallo del recurso cuando él haya sido concedido en el solo efecto devolutivo. En el caso que la apelación fuere concedida en ambos efectos, el tribunal de alzada continuará la tramitación en la carpeta electrónica, la que estará disponible en el sistema de tramitación electrónica del tribunal de alzada correspondiente.
+Recibidos los antecedentes referidos en el inciso anterior, la Corte de Apelaciones procederá a la asignación de un número de ingreso. Acto seguido, formará un cuaderno electrónico separado para el conocimiento y fallo del recurso cuando él haya sido concedido en el solo efecto devolutivo. 
+
+En el caso que la apelación fuere concedida en ambos efectos, el tribunal de alzada continuará la tramitación en la carpeta electrónica, la que estará disponible en el sistema de tramitación electrónica del tribunal de alzada correspondiente.
+{ #3w0nmu}
+
 
 ##### ART 198 . Derogado.
 
 ##### ART 199 . 
 
-La apelación de toda resolución que no sea sentencia definitiva se verá en cuenta, a menos que cualquiera de las partes, dentro del plazo de cinco días contado desde la certificación a que se refiere el ##### ART 200, solicite alegatos.
+La apelación de toda resolución que no sea sentencia definitiva se verá en cuenta, a menos que cualquiera de las partes, dentro del plazo de cinco días contado desde la certificación a que se refiere el ART 200, solicite alegatos.
+{ #w512la}
+
 
 Vencido este plazo, el tribunal de alzada ordenará traer los autos en relación, si se hubieren solicitado oportunamente alegatos. De lo contrario, el Presidente de la Corte ordenará dar cuenta y procederá a distribuir, mediante sorteo, la causa entre las distintas salas en que funcione el tribunal.
 
@@ -1269,6 +1284,8 @@ El tribunal de alzada deberá certificar en la carpeta electrónica la recepció
 ##### ART 201. 
 
 Si la apelación se ha interpuesto fuera de plazo o respecto de resolución inapelable o no es fundada o no contiene peticiones concretas, el tribunal correspondiente deberá declararla inadmisible de oficio. La parte apelada, en todo caso, podrá solicitar la declaración pertinente, verbalmente o por escrito.
+{ #79z2u7}
+
 
 Del fallo que, en estas materias, dicte el tribunal de alzada podrá pedirse reposición dentro de tercero día.
 
@@ -1298,9 +1315,13 @@ En el caso del 2 inciso del ##### ART precedente, quedarán sin efecto las gesti
 
 ##### ART 207. 
 
-En segunda instancia, salvo lo dispuesto en el inciso final del ##### ART 310 y en los ARTs 348 y 385, no se admitirá prueba alguna.
+En segunda instancia, salvo lo dispuesto en el inciso final del  ART 310 y en los ARTs 348 y 385, no se admitirá prueba alguna.
+{ #egja7}
 
-No obstante y sin perjuicio de las demás facultades concedidas por el ##### ART 159, el tribunal podrá, como medida para mejor resolver, disponer la recepción de prueba testimonial sobre hechos que no figuren en la prueba rendida en autos, siempre que la testimonial no se haya podido rendir en primera instancia y que tales hechos sean considerados por el tribunal como estrictamente necesarios para la acertada resolución del juicio. En este caso, el tribunal deberá señalar determinadamente los hechos sobre que deba recaer y abrir un término especial de prueba por el número de días que fije prudencialmente y que no podrá exceder de ocho días. La lista de testigos deberá presentarse dentro de segundo día de notificada por el estado la resolución respectiva.
+
+No obstante y sin perjuicio de las demás facultades concedidas por el  ART 159, el tribunal podrá, como medida para mejor resolver, disponer la recepción de prueba testimonial sobre hechos que no figuren en la prueba rendida en autos, siempre que la testimonial no se haya podido rendir en primera instancia y que tales hechos sean considerados por el tribunal como estrictamente necesarios para la acertada resolución del juicio. En este caso, el tribunal deberá señalar determinadamente los hechos sobre que deba recaer y abrir un término especial de prueba por el número de días que fije prudencialmente y que no podrá exceder de ocho días. La lista de testigos deberá presentarse dentro de segundo día de notificada por el estado la resolución respectiva.
+{ #xb7po}
+
 
 ##### ART 208 . 
 
@@ -1337,12 +1358,16 @@ Si el tribunal superior declara no haber lugar al recurso, pondrá el proceso a 
 Puede el apelado adherirse a la apelación en la forma y oportunidad que se expresa en el ##### ART siguiente.
 
 Adherirse a la apelación es pedir la reforma de la sentencia apelada en la parte en que la estime gravosa el apelado.
+{ #vd0wt}
+
 
 ##### ART 217. 
 
-La adhesión a la apelación puede efectuarse en segunda instancia dentro del plazo de cinco días desde la fecha de la certificación a la que se refiere el ##### ART 200. El escrito de adhesión a la apelación deberá cumplir con los requisitos que establece el ##### ART 189. Se aplicará a la adhesión a la apelación lo dispuesto en el ##### ART 201.
+La adhesión a la apelación puede efectuarse en segunda instancia dentro del plazo de cinco días desde la fecha de la certificación a la que se refiere el ART 200. El escrito de adhesión a la apelación deberá cumplir con los requisitos que establece el ART 189. Se aplicará a la adhesión a la apelación lo dispuesto en el ART 201.
 
 No será, sin embargo, admisible desde el momento en que el apelante haya presentado escrito para desistirse de la apelación.
+{ #0daqn}
+
 
 La hora de presentación de las solicitudes de adhesión y de desistimiento se registrará por el sistema de tramitación electrónica del Poder Judicial, o por el tribunal a través del timbre disponible ante el buzón dispuesto al efecto o mediante la anotación del correspondiente ministro de fe en los casos excepcionales en que se permite la presentación de los escritos en soporte papel.
 
@@ -1365,6 +1390,8 @@ Podrá, sin embargo, el tribunal ordenar que se haga por otro de los medios esta
 En cumplimiento de las obligaciones impuestas por el ##### ART 373 del Código Orgánico de Tribunales, los relatores darán cuenta de los vicios y omisiones que hayan notado en las causas del día a fin de que el tribunal resuelva si ha de llenarse previamente algún trámite.
 
 Las causas que se ordene tramitar, las suspendidas y las que por cualquier motivo no hayan de verse, serán anunciadas en la tabla antes de comenzar la relación de las demás. Asimismo, en esa oportunidad deberán señalarse aquellas causas que no se verán durante la audiencia, por falta de tiempo. La audiencia se prorrogará, si fuere necesario, hasta ver la última de las causas que resten en la tabla.
+{ #u366i}
+
 
 NOTA LEY 19317##### ART 19 N* 3D.0. 08.08.1994 NOTA Véanse las letras d) y f) del Auto Acordado de la Corte de Apelaciones de Santiago, publicado el 19.08.1994.
 
@@ -1373,16 +1400,26 @@ NOTA LEY 19317##### ART 19 N* 3D.0. 08.08.1994 NOTA Véanse las letras d) y f) d
 La vista de la causa se iniciará con la relación, la que se efectuará en presencia de los abogados de las partes que hayan asistido y se hubieren anunciado para alegar. Con todo, cualquiera de las partes podrá solicitar alegatos por vía remota mediante videoconferencia hasta dos días antes de la vista de la causa, lo que no afectará el derecho de la contraria de alegar presencialmente. No se permitirá el ingreso a la sala de los abogados una vez comenzada la relación. Los Ministros podrán, durante la relación, formular preguntas o hacer observaciones al relator, las que en caso alguno podrán ser consideradas como causales de inhabilidad.
 
 Concluida la relación, se procederá a escuchar, en audiencia pública, los alegatos de los abogados que se hubieren anunciado. Alegará primero el abogado del apelante y en seguida el del apelado. Si son varios los apelantes, hablarán los abogados en el orden en que se hayan interpuesto las apelaciones. Si son varios los apelados, los abogados intervendrán por el orden alfabético de aquéllos.
+{ #m5gop}
+
 
 Los abogados tendrán derecho a rectificar los errores de hecho que observaren en el alegato de la contraria, al término de éste, sin que les sea permitido replicar en lo concerniente a puntos de derecho.
+{ #n9hib}
+
 
 La duración de los alegatos de cada abogado se limitará a media hora. El tribunal, a petición del interesado, podrá prorrogar el plazo por el tiempo que estime conveniente.
 
 Durante los alegatos, el Presidente de la sala podrá invitar a los abogados a que extiendan sus consideraciones a cualquier punto de hecho o de derecho comprendido en el proceso, pero esta invitación no obstará a la libertad del defensor para el desarrollo de su exposición. Una vez finalizados los alegatos, y antes de levantar la audiencia, podrá también pedirles que precisen determinados puntos de hecho o de derecho que considere importantes.
+{ #anurf}
+
 
 Al término de la audiencia, los abogados podrán dejar a disposición del tribunal una minuta de sus alegatos. En el caso de los abogados que aleguen por vía remota, podrán presentar dicha minuta a través del sistema de tramitación electrónica del Poder Judicial tan pronto finalice la audiencia.
+{ #dmehh}
+
 
 El relator dará cuenta a la sala de los abogados que hubiesen solicitado alegatos o se hubiesen anunciado para alegar y no concurrieren a la audiencia respectiva para oír la relación ni hacer el alegato. El Presidente de la sala oirá al interesado, y, si encontrare mérito para sancionarlo, le aplicará una multa no inferior a una ni superior a cinco unidades tributarias mensuales, la que se duplicará en caso de reiteración de la falta dentro de un mismo año calendario. El sancionado no podrá alegar ante esa misma Corte mientras no certifique el secretario de ella, en el correspondiente expediente, que se ha pagado la multa impuesta.
+{ #73z6w}
+
 
 NOTA Véase el Auto Acordado de la Corte Suprema, publicado el 16.09.1994,
 
@@ -1424,7 +1461,9 @@ Se prohíbe igualmente leer en dicho acto tales defensas.
 
 Vista la causa, queda cerrado el debate y el juicio en estado de dictarse resolución
 
-Si, vista la causa, se decreta para mejor resolver, alguna de las diligencias mencionadas en el ##### ART 159, no por esto dejarán de intervenir en la decisión del asunto los mismos miembros del tribunal que asistieron a la vista en que se ordenó la diligencia.
+Si, vista la causa, se decreta para mejor resolver, alguna de las diligencias mencionadas en el  ART 159, no por esto dejarán de intervenir en la decisión del asunto los mismos miembros del tribunal que asistieron a la vista en que se ordenó la diligencia.
+{ #2osr5}
+
 
 ##### ART 228 . 
 
@@ -1462,17 +1501,17 @@ El plazo de un año se contará, en las sentencias que ordenen prestaciones peri
 
 ##### ART 234. 
 
-En el caso del ##### ART anterior la parte vencida sólo podrá oponerse alegando algunas de las siguientes excepciones: pago de la deuda, remisión de la misma, concesión de esperas o prórrogas del plazo, novación, compensación, transacción, la de haber perdido su carácter de ejecutoria, sea absolutamente o con relación a lo dispuesto en el ##### ART anterior, la sentencia que se trate de cumplir, la del ##### ART 464 número 15 y la del ##### ART 534, siempre que ellas, salvo las dos últimas, se funden en antecedentes escritos, pero todas en hechos acaecidos con posterioridad a la sentencia de cuyo cumplimiento se trata. También podrá alegarse la falta de oportunidad en la ejecución. Esta excepción y las del ##### ART 464 N* 15 y del ##### ART 534 necesitarán, además, para ser admitidas a tramitación, que aparezcan revestidas de fundamento plausible. La oposición sólo podrá deducirse dentro de la citación a que se refiere el ##### ART precedente.
+En el caso del ART anterior la parte vencida sólo podrá oponerse alegando algunas de las siguientes excepciones: pago de la deuda, remisión de la misma, concesión de esperas o prórrogas del plazo, novación, compensación, transacción, la de haber perdido su carácter de ejecutoria, sea absolutamente o con relación a lo dispuesto en el  ART anterior, la sentencia que se trate de cumplir, la del  ART 464 número 15 y la del ART 534, siempre que ellas, salvo las dos últimas, se funden en antecedentes escritos, pero todas en hechos acaecidos con posterioridad a la sentencia de cuyo cumplimiento se trata. También podrá alegarse la falta de oportunidad en la ejecución. Esta excepción y las del ART 464 N* 15 y del ART 534 necesitarán, además, para ser admitidas a tramitación, que aparezcan revestidas de fundamento plausible. La oposición sólo podrá deducirse dentro de la citación a que se refiere el ##### ART precedente.
 
 El tercero en contra de quien se pida el cumplimiento del fallo podrá deducir, además, la excepción de no empecerle la sentencia y deberá formular su oposición dentro del plazo de diez días.
 
 La oposición se tramitará en forma incidental, pero si las excepciones no reúnen los requisitos exigidos por el inciso 1? se rechazará de plano.
 
-Lo dispuesto en este ##### ART es sin perjuicio de lo prevenido en el ##### ART 80.
+Lo dispuesto en este ART es sin perjuicio de lo prevenido en el ART 80.
 
 ##### ART 235. 
 
-Si no ha habido oposición al cumplimiento de la sentencia solicitado conforme al ##### ART 233 o ella ha sido desestimada por sentencia de primera o segunda instancia, se procederá a cumplirla, siempre que la ley no haya dispuesto otra forma especial, de acuerdo con las reglas siguientes:
+Si no ha habido oposición al cumplimiento de la sentencia solicitado conforme al ART 233 o ella ha sido desestimada por sentencia de primera o segunda instancia, se procederá a cumplirla, siempre que la ley no haya dispuesto otra forma especial, de acuerdo con las reglas siguientes:
 
 1a. Si la sentencia ordena entregar una especie o cuerpo cierto, sea mueble o inmueble, se llevará a afecto la entrega, haciéndose uso de la fuerza pública si es necesario;
 
@@ -1484,11 +1523,11 @@ Si no hay bienes que aseguren el resultado de la acción se procederá a embarga
 
 4a. Si la sentencia obliga a pagar una cantidad de un género determinado, se procederá de conformidad a las reglas del número anterior; pero si es necesario, se practicará previamente su avaluación por un perito con arreglo al Título XI! del Libro IV;
 
-5a. Si la sentencia ordena la ejecución o destrucción de una obra material, la subscripción de un instrumento o la constitución de un derecho real o de una obligación, se procederá de acuerdo con el procedimiento de apremio en las obligaciones de hacer; pero se aplicará lo prescrito en el número 3” de este ##### ART cuando sea necesario embargar y realizar bienes; y
+5a. Si la sentencia ordena la ejecución o destrucción de una obra material, la subscripción de un instrumento o la constitución de un derecho real o de una obligación, se procederá de acuerdo con el procedimiento de apremio en las obligaciones de hacer; pero se aplicará lo prescrito en el número 3” de este ART cuando sea necesario embargar y realizar bienes; y
 
-6a. Si la sentencia ha condenado a la devolución de frutos o a la indemnización de perjuicios y, de conformidad a lo establecido en el inciso segundo del ##### ART 173, se ha reservado al demandante el derecho de discutir esta cuestión en la ejecución del fallo, el actor deberá formular la demanda respectiva en el mismo escrito en que pida el cumplimiento del fallo. Esta demanda se tramitará como incidente y, de existir oposición al cumplimiento del fallo, ambos incidentes se substanciarán conjuntamente y se resolverán en una misma y única sentencia.
+6a. Si la sentencia ha condenado a la devolución de frutos o a la indemnización de perjuicios y, de conformidad a lo establecido en el inciso segundo del ART 173, se ha reservado al demandante el derecho de discutir esta cuestión en la ejecución del fallo, el actor deberá formular la demanda respectiva en el mismo escrito en que pida el cumplimiento del fallo. Esta demanda se tramitará como incidente y, de existir oposición al cumplimiento del fallo, ambos incidentes se substanciarán conjuntamente y se resolverán en una misma y única sentencia.
 
-En todo lo que no esté previsto en este ##### ART se aplicarán las reglas que se establecen en el juicio ejecutivo para el embargo y el procedimiento de apremio; pero la sentencia se cumplirá hasta hacer entero pago a la parte vencedora sin necesidad de fianza de resultas, salvo lo dispuesto en el ##### ART 774 y en otras disposiciones especiales.
+En todo lo que no esté previsto en este ART se aplicarán las reglas que se establecen en el juicio ejecutivo para el embargo y el procedimiento de apremio; pero la sentencia se cumplirá hasta hacer entero pago a la parte vencedora sin necesidad de fianza de resultas, salvo lo dispuesto en el ART 774 y en otras disposiciones especiales.
 
 ##### ART 236. 
 
@@ -1498,9 +1537,9 @@ Esta petición se tramitará en forma incidental.
 
 ##### ART 237. 
 
-Las sentencias que ordenen prestaciones de dar, hacer o no hacer, y cuyo cumplimiento se solicite después de vencido el plazo de un año, concedido en el ##### ART 233, se sujetarán a los trámites del juicio ejecutivo.
+Las sentencias que ordenen prestaciones de dar, hacer o no hacer, y cuyo cumplimiento se solicite después de vencido el plazo de un año, concedido en el  ART 233, se sujetarán a los trámites del juicio ejecutivo.
 
-Se aplicará también este procedimiento cuando se solicite el cumplimiento del fallo ante otro tribunal distinto del indicado en el ##### ART 233.
+Se aplicará también este procedimiento cuando se solicite el cumplimiento del fallo ante otro tribunal distinto del indicado en el ART 233.
 
 En los juicios a que dé lugar la ejecución de las resoluciones a que se refiere este ART, no se admitirá ninguna excepción que haya podido oponerse en el juicio anterior.
 
@@ -2097,7 +2136,7 @@ Sin perjuicio de lo que dispone el ##### ART anterior, se mandará aplicar al Fi
 
 ##### ART 339 . 
 
-El término de prueba no se suspenderá en caso alguno, salvo que todas las partes lo pidan. Los incidentes que se formulen durante dicho término o que se relacionen con la prueba, se tramitarán en cuaderno separado.
+El término de prueba no se suspenderá en caso , salvo que todas las partes lo pidan. Los incidentes que se formulen durante dicho término o que se relacionen con la prueba, se tramitarán en cuaderno separado.
 
 Si durante él ocurren entorpecimientos que imposibiliten la recepción de la prueba, sea absolutamente, sea respecto de algún lugar determinado, podrá otorgarse por el tribunal un nuevo término especial por el número de días que haya durado el entorpecimiento y para rendir prueba sólo en el lugar a que dicho entorpecimiento se refiera.
 
@@ -4678,9 +4717,11 @@ El recurso de casación en la forma ha de fundarse precisamente en alguna de las
 - 6a. En haber sido dada contra otra pasada en autoridad de cosa juzgada, siempre que ésta se haya alegado oportunamente en el juicio;
 - 7a. En contener decisiones contradictorias;
 - 8a. En haber sido dada en apelación legalmente declarada desistida, y
+{ #9inib}
+
 - 9a. En haberse faltado a algún trámite o diligencia declarados esenciales por la ley o a cualquier otro requisito por cuyo defecto las leyes prevengan expresamente que hay nulidad.
 
-En los negocios a que se refiere el inciso segundo del ##### ART 766 sólo podrá fundarse el recurso de casación en la forma en alguna de las causales indicadas en los números 1*, 2*, 3”, 4%, 6*, 7* y 8” de este ##### ART y también en el número 5* cuando se haya omitido en la sentencia la decisión del asunto controvertido.
+En los negocios a que se refiere el inciso segundo del ART 766 sólo podrá fundarse el recurso de casación en la forma en alguna de las causales indicadas en los números 1, 2, 3, 4, 6, 7 y 8 de este ART y también en el número 5* cuando se haya omitido en la sentencia la decisión del asunto controvertido.
 
 No obstante lo dispuesto en este ART, el tribunal podrá desestimar el recurso de casación en la forma, si de los antecedentes aparece de manifiesto que el recurrente no ha sufrido un perjuicio reparable sólo con la invalidación del fallo o cuando el vicio no ha influido en lo dispositivo del mismo.
 

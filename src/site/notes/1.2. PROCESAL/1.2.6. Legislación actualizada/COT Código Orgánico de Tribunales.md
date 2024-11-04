@@ -1204,6 +1204,8 @@ La Corte de Santiago conocerá de los recursos de apelación y de casación en l
 El conocimiento de todos los asuntos entregados a la competencia de las Cortes de Apelaciones pertenecerá a las salas en que estén divididas, a menos que la ley disponga expresamente que deban conocer de ellos en Pleno.
 
 Cada sala representa a la Corte en los asuntos de que conoce. En caso que ante una misma Corte de Apelaciones se encuentren pendientes distintos recursos de carácter jurisdiccional que incidan en una misma causa, cualesquiera sea su naturaleza, éstos deberán acumularse y verse conjunta y simultáneamente en una misma sala. La acumulación deberá hacerse de oficio, sin perjuicio del derecho de las partes a requerir el cumplimiento de esta norma. En caso que, además de haberse interpuesto recursos jurisdiccionales, se haya deducido recurso de queja, éste se acumulará a los recursos jurisdiccionales, y deberá resolverse conjuntamente con ellos.
+{ #w4xdom}
+
 
 Corresponderá a todo el tribunal el ejercicio de las facultades disciplinarias, administrativas y económicas, sin perjuicio de que las salas puedan ejercer las primeras en los casos de los artículos 542 y 543 en los asuntos que estén conociendo. También corresponderá a todo el tribunal el conocimiento de los desafueros de los Diputados y de los Senadores y de los juicios de amovilidad en contra de los jueces de letras.
 
@@ -1392,6 +1394,8 @@ A los Presidentes de las Cortes de Apelaciones, fuera de las atribuciones que ot
 8) Poner a votación las materias discutidas cuando el tribunal haya declarado concluido el debate;
 9) Enviar al Presidente de la Corte Suprema, antes del quince de Febrero de cada año, la estadística a que se refiere el artículo 589; y
 10) Dar cuenta al Presidente de la Corte Suprema de las causas en que no se haya dictado sentencia en el plazo de treinta días, contados desde el término de la vista, y de los motivos del retardo.
+{ #xsfqx}
+
 
 Las resoluciones que el Presidente dictare en uso de las atribuciones que se le confieren en este artículo, exceptuadas las de los números 1, 2, 9 y 10, no podrán en caso alguno prevalecer contra el voto del tribunal.
 
@@ -3451,8 +3455,12 @@ Son funciones de los relatores:
 1) Dar cuenta diaria de las solicitudes que se presenten en calidad de urgentes, de las que no pudieren ser despachadas por la sola indicación de la suma y de los negocios que la Corte mandare pasar a ellos;
 2) Poner en conocimiento de las partes o sus abogados el nombre de las personas que integran el tribunal, en el caso a que se refiere el artículo 173 del Código de Procedimiento Civil;
 3) Revisar los expedientes físicos o digitales que se les entreguen o asignen y certificar que están en estado de relación. En caso que sea necesario traer a la vista los documentos, cuadernos separados y expedientes no acompañados o realizar trámites procesales previos a la vista de la causa, informará de ello al Presidente de la Corte, el cual dictará las providencias que correspondan.
+{ #kol0br}
+
 4) Hacer relación de los procesos;
 5) Anotar el día de la vista de cada causa los nombres de los jueces que hubieren concurrido a ella, si no fuere despachada inmediatamente; y
+{ #hs5tq}
+
 6) Cotejar con los procesos los informes en derecho, y anotar bajo su firma la conformidad o disconformidad que notaren entre el mérito de éstos y los hechos expuestos en aquéllos.
 
 ##### ART 373. 
