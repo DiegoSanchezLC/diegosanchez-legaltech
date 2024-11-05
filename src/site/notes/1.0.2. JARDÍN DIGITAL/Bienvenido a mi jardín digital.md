@@ -28,7 +28,7 @@ Entonces, necesitamos de métodos digitales para apoyar nuestras tareas de:
 3. Vincular ese conocimiento en forma simple o compleja;
 4. Memorizar esa información en un corto período de tiempo, para darle uso práctico después. 
 
-Estos son los que llamo "[[Los 4 momentos de la información\|Los 4 momentos de la información]]", una estructura que formulé para generar soluciones prácticas.
+Estos son los que llamo "[[1.0.1. CEREBRO DIGITAL/Técnicas avanzadas de estudio y cerebro digital/Los 4 momentos de la información\|Los 4 momentos de la información]]", una estructura que formulé para generar soluciones prácticas.
 # Crítica y propuesta
 
 Pienso que la educación tradicional falla respecto a los siguientes puntos:
