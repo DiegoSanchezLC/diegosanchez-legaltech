@@ -18,7 +18,18 @@ Al surgir de esta manera, debes comprender que esta estructura no es taxativa, e
 
 # 1. Capturar la información
 
-Nuestro primer momento 
+## Reflexión inicial
+
+Nuestro primer momento comprende capturar la información. Ciertamente, es un desafío dar soluciones prácticas a este momento, puesto que depende esencialmente del soporte que estés utilizando.
+Me explico. Si necesitas capturar información de un libro físico, necesariamente tendrás que realizar trabajo mecánico y repetitivo para llevarlo a otro lugar, como ser, [un libro de lugares comunes](https://comein.uoc.edu/divulgacio/comein/es/numero27/articles/Article-Amalia-Creus.html#:~:text=M%C3%A1s%20all%C3%A1%20de%20simples%20transcripciones,utilizar%20en%20sus%20futuros%20escritos.). 
+Sin embargo, todos sabemos que ese trabajo implica fricción. Alguna vez te habrás propuesto realizar un resumen de un libro. Lo lees, lo destacas y lo comentas, y al final, termina juntando polvo en una estantería. Es normal, **nadie debería estar obligado a realizar un ejercicio de voluntad tan ineficiente**. 
+Mi juicio es que en el mundo en que vivimos, necesitamos de herramientas digitales para facilitar nuestro trabajo. Esto implica facilitar la labor de captura de información y de realización de notas vivas. Implica facilitar este proceso de modo que sea menos demandante, en cuanto a tiempo y esfuerzo.
+## Captura rápidamente información de internet
+
+Obsidian funciona con Markdown. Esto implica que cualquier tema que nos sea de interés y esté contenido en un sitio web, puede ser capturado y enviado a nuestro cerebro digital utilizando un capturador de Markdown. Personalmente, estoy usando Markdownloader. Déjame mostrarte cómo funciona.
+
+1. Instalas Markdownloader desde el administrador de complementos de Google Chrome. Lo puedes encontrar en [el siguiente link](https://chromewebstore.google.com/detail/markdownload-markdown-web/pcmpcfapbekmbjjkdalcgopdkipoggdi)
+2. Visita una página que sea de tu interés. La lógica de esto es que cualquier tema que te interese y encuentres en internet, lo captures de forma rápida en tu bóveda de Obsidian
 
 
 # 2. Almacenar la información, en forma útil y segura
