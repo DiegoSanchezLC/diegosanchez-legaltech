@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-0-2-jardin-digital/los-4-momentos-de-la-informacion/","tags":["CerebroDigital"]}
+{"dg-publish":true,"dg-path":"Bienvenida/Los 4 momentos de la información.md","permalink":"/bienvenida/los-4-momentos-de-la-informacion/","tags":["CerebroDigital"]}
 ---
 
 # Introducción
