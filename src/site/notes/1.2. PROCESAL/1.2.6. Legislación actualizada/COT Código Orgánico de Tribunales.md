@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":" 2. Derecho Procesal/1.2.6. Legislación actualizada/COT Código Orgánico de Tribunales.md","permalink":"/2-derecho-procesal/1-2-6-legislacion-actualizada/cot-codigo-organico-de-tribunales/","tags":["Procesal","Administrativo"]}
+{"dg-publish":true,"dg-path":" 1.2. Derecho Procesal/1.2.6. Legislación actualizada/COT Código Orgánico de Tribunales.md","permalink":"/1-2-derecho-procesal/1-2-6-legislacion-actualizada/cot-codigo-organico-de-tribunales/","tags":["Procesal","Administrativo"]}
 ---
 
 # Título I Del Poder Judicial y de la Administración de Justicia en general
