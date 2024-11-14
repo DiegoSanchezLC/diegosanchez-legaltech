@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-2-procesal/1-2-6-legislacion-actualizada/cpc-codigo-de-procedimiento-civil/","tags":["Procesal","Civil"]}
+{"dg-publish":true,"dg-path":" 1.2. Derecho Procesal/1.2.6. Legislación actualizada/CPC Código de Procedimiento Civil.md","permalink":"/1-2-derecho-procesal/1-2-6-legislacion-actualizada/cpc-codigo-de-procedimiento-civil/","tags":["Procesal","Civil"]}
 ---
 
 

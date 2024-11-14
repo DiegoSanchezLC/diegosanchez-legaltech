@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-2-procesal/1-2-6-legislacion-actualizada/cpp-codigo-procesal-penal/","tags":["ProcesalPenal","Procesal"]}
+{"dg-publish":true,"dg-path":" 1.2. Derecho Procesal/1.2.6. Legislación actualizada/CPP Código Procesal Penal.md","permalink":"/1-2-derecho-procesal/1-2-6-legislacion-actualizada/cpp-codigo-procesal-penal/","tags":["ProcesalPenal","Procesal"]}
 ---
 
 # Libro Primero Disposiciones generales
