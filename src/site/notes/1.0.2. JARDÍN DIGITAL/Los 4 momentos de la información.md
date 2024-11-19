@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"1.0. Bienvenida/Los 4 momentos de la información.md","permalink":"/1-0-bienvenida/los-4-momentos-de-la-informacion/","tags":["CerebroDigital"]}
+{"dg-publish":true,"dg-path":"0. Bienvenida/Los 4 momentos de la información.md","permalink":"/0-bienvenida/los-4-momentos-de-la-informacion/","tags":["CerebroDigital"]}
 ---
 
 # Introducción
@@ -34,9 +34,10 @@ Hasta antes del mes de noviembre de 2024, utilizaba el siguiente método:
 3. Utiliza la herramienta y captura la información, guardándola en la carpeta-bóveda que creaste en Obsidian.
 4. Listo, lo has capturado.
 
-Sin embargo, esto cambió desde que Obsidian publicó su funcionalidad de Obsidian Clipper, como plugin oficial. Esto sin duda nos da mayor certeza a la hora de captura la información, pues estamos utilizando un complemento del mismo fabricante. 
+Sin embargo, esto cambió desde que Obsidian publicó su funcionalidad de Obsidian Clipper, como plugin oficial. Esto sin duda nos da mayor certeza a la hora de captura la información, pues estamos utilizando un complemento del mismo fabricante. Lo puedes instalar desde [el siguiente enlace oficial](https://obsidian.md/clipper)
 
 # 2. Almacenar la información, en forma útil y segura
+
 
 # 3. Vincular nuestro conocimiento, en forma simple o compleja
 
