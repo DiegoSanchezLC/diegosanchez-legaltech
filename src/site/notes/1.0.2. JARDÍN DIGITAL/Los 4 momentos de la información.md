@@ -26,11 +26,15 @@ Sin embargo, todos sabemos que ese trabajo implica fricción. Alguna vez te habr
 Mi juicio es que en el mundo en que vivimos, necesitamos de herramientas digitales para facilitar nuestro trabajo. Esto implica facilitar la labor de captura de información y de realización de notas vivas. Implica facilitar este proceso de modo que sea menos demandante, en cuanto a tiempo y esfuerzo.
 ## Captura rápidamente información de internet
 
-Obsidian funciona con Markdown. Esto implica que cualquier tema que nos sea de interés y esté contenido en un sitio web, puede ser capturado y enviado a nuestro cerebro digital utilizando un capturador de Markdown. Personalmente, estoy usando Markdownloader. Déjame mostrarte cómo funciona.
+Obsidian funciona con Markdown. Esto implica que cualquier tema que nos sea de interés y esté contenido en un sitio web, puede ser capturado y enviado a nuestro cerebro digital utilizando un capturador de Markdown. 
 
+Hasta antes del mes de noviembre de 2024, utilizaba el siguiente método:
 1. Instalas Markdownloader desde el administrador de complementos de Google Chrome. Lo puedes encontrar en [el siguiente link](https://chromewebstore.google.com/detail/markdownload-markdown-web/pcmpcfapbekmbjjkdalcgopdkipoggdi)
-2. Visita una página que sea de tu interés. La lógica de esto es que cualquier tema que te interese y encuentres en internet, lo captures de forma rápida en tu bóveda de Obsidian
+2. Visita una página que sea de tu interés. La lógica de esto es que cualquier tema que te interese y encuentres en internet, lo captures de forma rápida en tu bóveda de Obsidian.
+3. Utiliza la herramienta y captura la información, guardándola en la carpeta-bóveda que creaste en Obsidian.
+4. Listo, lo has capturado.
 
+Sin embargo, esto cambió desde que Obsidian publicó su funcionalidad de Obsidian Clipper, como plugin oficial. Esto sin duda nos da mayor certeza a la hora de captura la información, pues estamos utilizando un complemento del mismo fabricante. 
 
 # 2. Almacenar la información, en forma útil y segura
 
