@@ -9,7 +9,7 @@ Antes de explicar por qué estoy buscando un profesional como tú, permíteme ag
 
 # Confidencialidad
 
-Lamentablemente, por razones de seguridad y confidencialidad, no puedo mostrarte ni el logo ni la idea principal de este proyecto. De hecho, ambos temas están sujetos a un contrato de confidencialidad. Para acceder a ellas, necesito que te comuniques conmigo y agendemos una entrevista, para conocerte mejor, y luego firmar el contrato. 
+Lamentablemente, por razones de seguridad, no puedo te puedo mostrar ni el logo ni la idea principal de este proyecto. De hecho, ambos temas están sujetos a un contrato de confidencialidad. Para acceder a ellas, necesito que te comuniques conmigo y agendemos una entrevista, para conocerte mejor, y luego firmar el contrato. 
 Te preguntarás, ¿Qué gano yo gastando mi tiempo yendo a una entrevista y luego firmando un contrato que me obligará a mantener un secreto total respecto al proyecto? La explicación viene dada en el punto siguiente. Te darás cuenta que es un win-win (ganar ganar). 
 
 # Propuesta de acción o Equity
