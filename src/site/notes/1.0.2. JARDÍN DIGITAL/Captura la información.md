@@ -56,6 +56,3 @@ A diferencia de otras funciones de Obsidian que sí puedes ver en esta página w
 > [!important] Qué logramos con esto:
 > 1. Nunca partir de cero: el estudiante o profesional nunca partirá de cero con los conceptos que trabaja diariamente, pues el sistema constantemente lo retroalimentará respecto a las palabras o conceptos difíciles.
 > 2. Crea una verdadera enciclopedia con tus conocimientos: estas funcionalidades no tienen otro límite que la dedicación del usuario. Si alguien quisiera crear un diccionario con todas las expresiones propias de su disciplina, según distintos autores, lo podría hacer.
-
-# Captura audios de interés y transcribe automáticamente a una nota usando IA
-
