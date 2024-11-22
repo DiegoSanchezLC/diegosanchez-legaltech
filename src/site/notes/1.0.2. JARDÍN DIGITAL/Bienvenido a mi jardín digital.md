@@ -38,7 +38,7 @@ Pienso que la educación tradicional falla respecto a los siguientes puntos:
 4. Como consecuencia de lo anterior, el "aprendizaje" es apenas una minúscula parte de lo que una persona puede lograr;
 5. Una vez que el joven alcanza la madurez para comprender estas ideas, ya ha pasado mucho tiempo. 
 
-Mi juicio es que si el ser humano se previene de ciertos males a través de indicaciones racionales que otorgan soluciones prácticas, tiene una menor posibilidad de fracasar (al menos en el ámbito académico, el profesional es otro tema)
+Mi juicio es que si el ser humano se previene de ciertos males a través de indicaciones racionales que otorgan soluciones prácticas, tiene una menor probabilidad de fracasar (al menos en el ámbito académico, el profesional es otro tema)
 Pero aún así, estando prevenido de estos males, requiere que un agente simplifique el proceso de maduración de estas ideas, y entregue herramientas útiles para sobrellevar los momentos de la información (captar, almacenar, vincular y memorizar). Este agente en nuestra sociedad se llama profesor, pero no es un profesor cualquiera.
 Pretendo ser uno de estos agentes. Quiero que cada estudiante y profesional logre su mejor versión en el día a día y que cada etapa de su aprendizaje sea una ganancia, y no un olvido constante. 
 
