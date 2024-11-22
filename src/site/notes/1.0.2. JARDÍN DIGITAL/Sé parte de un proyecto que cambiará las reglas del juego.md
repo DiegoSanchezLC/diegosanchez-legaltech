@@ -5,7 +5,7 @@
 # Bienvenida y agradecimiento
 
 Hola, mi nombre es Diego Sánchez, y soy Licenciado en Ciencias Jurídicas y Sociales. 
-Antes de explicar por qué estoy buscando un profesional como tú, permíteme agradecerte por mostrar interés en este proyecto. Es una idea que desarrollé luego de tres años trabajando en mi proyecto inicial, el cual ya está en ejecución. Este proyecto inicial me inspiró a crear esta segunda idea, de la cual quiero que tú seas parte. Quiero que brilles con tu talento y seas cofundador de esta empresa. 
+Antes de explicar por qué estoy buscando un profesional como tú, permíteme agradecerte por mostrar interés en este proyecto. Es una idea que desarrollé luego de tres años trabajando en mi proyecto inicial, el cual ya está en ejecución. Aquel proyecto inicial me inspiró a crear esta segunda idea, de la cual quiero que tú seas parte. Quiero que brilles con tu talento y seas cofundador de esta empresa. 
 
 # Confidencialidad
 
@@ -28,7 +28,7 @@ La idea es complementar nuestras visiones como profesionales. Trabajaremos desde
 # Qué necesito en el corto plazo
 
 Sólo un prototipo. No el producto completo, ni con todas sus funciones. Necesito que juntos armemos el prototipo que será presentado al mercado, en particular, a los fondos de inversión, para poder captar dinero para luego desarrollar el proyecto final. 
-Por esta razón, es que no necesito que abandones tus funciones, ni utilices espacio de trabajo, sino que trabajemos juntos en un prototipo inicial, funcional, que muestre las funciones principales y filosofía del proyecto, **el por qué lo diferencia de cualquier empresa que exista en el mercado**. 
+Por esta razón, es que no es necesario que abandones tus funciones, ni utilices tu tiempo de trabajo, sino que trabajemos juntos, en forma parcelada y semanal, en un prototipo inicial, funcional, que muestre las funciones principales y filosofía del proyecto, **el por qué lo diferencia de cualquier empresa que exista en el mercado**. 
 
 # Invitación
 
