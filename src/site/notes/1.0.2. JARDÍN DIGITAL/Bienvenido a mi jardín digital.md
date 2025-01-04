@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"1.0. Bienvenida/Bienvenido a mi jardín digital.md","permalink":"/1-0-bienvenida/bienvenido-a-mi-jardin-digital/","tags":["CerebroDigital","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"dg-path":"1.0. Bienvenida/Bienvenido a mi jardín digital.md","permalink":"/1-0-bienvenida/bienvenido-a-mi-jardin-digital/","tags":["CerebroDigital","gardenEntry"]}
 ---
 
 
@@ -21,6 +21,12 @@ Sobre todo esto hablo en este sitio. ¡Espero te sirva!
 > 6. [[1.0.2. JARDÍN DIGITAL/Automatiza tu flujo de trabajo\|Automatiza tu flujo de trabajo, utilizando IA y asistentes expertos]]
 > 7. [[1.0.2. JARDÍN DIGITAL/Memoriza la información\|Memoriza grandes cantidades de información, en poco tiempo]]
 > 8. [[1.0.2. JARDÍN DIGITAL/Socializa tu conocimiento\|Socializa tu conocimiento, potenciando a tu entorno y seres queridos]]
+> 
+
+> [!pizza] Conocimiento pizzero
+> uno
+> dos
+> tres
 > 
 
 
