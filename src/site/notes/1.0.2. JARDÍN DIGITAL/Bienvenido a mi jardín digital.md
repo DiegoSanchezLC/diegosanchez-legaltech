@@ -13,7 +13,14 @@ Mi idea es generar soluciones prácticas para un estudio avanzado y eficaz, y ta
 Sobre todo esto hablo en este sitio. ¡Espero te sirva!
 
 > [!example] Problema y propuesta
-> [[1.0.2. JARDÍN DIGITAL/Un cambio de perspectiva\|1. Una experiencia que marcó mi vida]]
-> [[1.0.2. JARDÍN DIGITAL/Los 6 momentos de la información\|2. Los 4 momentos de la información]]
+> 1. [[1.0.2. JARDÍN DIGITAL/Un cambio de perspectiva\|Una experiencia que marcó mi vida]]
+> 2. [[1.0.2. JARDÍN DIGITAL/Los 6 momentos de la información\| Los 6 momentos de la información]]
+> 3. [[1.0.2. JARDÍN DIGITAL/Captura la información\|Captura la información, en forma rápida y sencilla]]
+> 4. [[1.0.2. JARDÍN DIGITAL/Almacena la información\|Almacena la información, en forma útil y segura]]
+> 5. [[1.0.2. JARDÍN DIGITAL/Vincula la información\|Vincula tu conocimiento, en forma simple o compleja]]
+> 6. [[1.0.2. JARDÍN DIGITAL/Automatiza tu flujo de trabajo\|Automatiza tu flujo de trabajo, utilizando IA y asistentes expertos]]
+> 7. [[1.0.2. JARDÍN DIGITAL/Memoriza la información\|Memoriza grandes cantidades de información, en poco tiempo]]
+> 8. [[1.0.2. JARDÍN DIGITAL/Socializa tu conocimiento\|Socializa tu conocimiento, potenciando a tu entorno y seres queridos]]
+> 
 
 

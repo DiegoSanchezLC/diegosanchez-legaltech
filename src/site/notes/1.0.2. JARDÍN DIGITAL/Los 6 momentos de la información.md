@@ -16,9 +16,11 @@ Al surgir de esta manera, debes comprender que esta estructura no es taxativa, e
 
 Dicho todo lo anterior, te dejaré una tabla de contenidos para que consultes cada momento de la información, y las soluciones prácticas que encontré. 
 
-> [!note] Los 4 momentos de la información
+> [!note] Los 6 momentos de la información
 > 1. [[1.0.2. JARDÍN DIGITAL/Captura la información\|Captura la información que te rodea, en forma rápida y sencilla]]
 > 2. [[1.0.2. JARDÍN DIGITAL/Almacena la información\|Almacena tu información, en forma útil y segura]]
 > 3. [[1.0.2. JARDÍN DIGITAL/Vincula la información\| Vincula tu conocimiento, en forma simple o compleja]]
-> 4. [[1.0.2. JARDÍN DIGITAL/Memoriza la información\| Memoriza grandes cantidades de información, ¡En poco tiempo!]]
+> 4. [[1.0.2. JARDÍN DIGITAL/Automatiza tu flujo de trabajo\|Automatiza tu flujo de trabajo, con IA y asistentes expertos]]
+> 5. [[1.0.2. JARDÍN DIGITAL/Memoriza la información\| Memoriza grandes cantidades de información, ¡En poco tiempo!]]
+> 6. [[1.0.2. JARDÍN DIGITAL/Socializa tu conocimiento\|Socializa tu conocimiento, potenciando a tu grupo y seres queridos]]
 
