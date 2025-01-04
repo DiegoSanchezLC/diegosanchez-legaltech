@@ -38,6 +38,10 @@ Sobre todo esto hablo en este sitio. ¡Espero te sirva!
 > 12. [[1.6. PENAL/1.6.3. Legislación actualizada/CP Código Penal\|Código Penal]]
 > 13. [[1.7. CONSUMIDOR, COMERCIAL, SOCIETARIO/Legislación actualizada/CdeC Código de Comercio\|Código de Comercio]]
 
+> [!tip] Derecho y doctrina.
+> 1. Derecho Procesal.
+> 	1. [[1.2. PROCESAL/1.2.4. Recursos/4. Recurso de apelación/4.0. Recurso de Apelación (NM)\|Recurso de apelación (NM)]]
+
 
 > [!abstract] Herramientas de conversión de libros, y de texto
 > 1. [[1.0.1. CEREBRO DIGITAL/4. Conversión de textos y libros/Tareas avanzadas (código)/Corregir anotaciones Kindle\|Limpia las anotaciones de tu Kindle, de modo de traspasarlas a tus notas]]
