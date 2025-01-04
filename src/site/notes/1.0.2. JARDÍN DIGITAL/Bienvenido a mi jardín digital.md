@@ -12,6 +12,8 @@ Mi interés abarca diversas áreas del derecho, pero en particular, me interesa 
 Mi idea es generar soluciones prácticas para un estudio avanzado y eficaz, y también para el ejercicio de la profesión, a través de métodos de gestión de conocimiento personal, consultas inteligentes, herramientas inteligentes y sistemas de memorización activa. 
 Sobre todo esto hablo en este sitio. ¡Espero te sirva!
 
-
+> [!example] Problema y propuesta
+> [[1.0.2. JARDÍN DIGITAL/Un cambio de perspectiva\|1. Una experiencia que marcó mi vida]]
+> [[1.0.2. JARDÍN DIGITAL/Los 6 momentos de la información\|2. Los 4 momentos de la información]]
 
 
