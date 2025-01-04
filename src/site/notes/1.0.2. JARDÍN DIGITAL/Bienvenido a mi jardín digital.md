@@ -23,10 +23,9 @@ Sobre todo esto hablo en este sitio. ¡Espero te sirva!
 > 8. [[1.0.2. JARDÍN DIGITAL/Socializa tu conocimiento\|Socializa tu conocimiento, potenciando a tu entorno y seres queridos]]
 > 
 
-> [!pizza] Conocimiento pizzero
-> uno
+> [!historia] Herramientas de conversión de libros y de texto
+> uno 
 > dos
-> tres
 > 
 
 
