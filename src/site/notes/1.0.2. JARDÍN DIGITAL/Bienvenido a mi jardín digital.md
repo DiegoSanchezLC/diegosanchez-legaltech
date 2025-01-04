@@ -43,5 +43,5 @@ Sobre todo esto hablo en este sitio. ¡Espero te sirva!
 > 1. [[1.0.1. CEREBRO DIGITAL/4. Conversión de textos y libros/Tareas avanzadas (código)/Corregir anotaciones Kindle\|Limpia las anotaciones de tu Kindle, de modo de traspasarlas a tus notas]]
 
 > [!danger] Calidad de vida
-> 1. [[1.0.1. CEREBRO DIGITAL/5. El arte de dormir bien/5.2. El sueño es fundamental para tu salud física y mental - Javier Albares\|El sueño es fundamental para tu salud física y mental  Javier  Albares]]
+> 1. [[1.0.1. CEREBRO DIGITAL/5. El arte de dormir bien/5.2. El sueño es fundamental para tu salud física y mental - Javier Albares\|El sueño es fundamental para tu salud física y mental  - Javier  Albares]]
 > 2. [[1.0.1. CEREBRO DIGITAL/5. El arte de dormir bien/5.1. La importancia de dormir bien, según el científico del sueño - Matt Walker\|La importancia de dormir bien - Matt Walker]]
