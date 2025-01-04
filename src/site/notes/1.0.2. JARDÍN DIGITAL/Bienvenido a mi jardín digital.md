@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"1.0. Bienvenida/Bienvenido a mi jardín digital.md","permalink":"/1-0-bienvenida/bienvenido-a-mi-jardin-digital/","tags":["CerebroDigital","gardenEntry"]}
+{"dg-publish":true,"dg-path":"1.0. Bienvenida/Bienvenido a mi jardín digital.md","permalink":"/1-0-bienvenida/bienvenido-a-mi-jardin-digital/","tags":["CerebroDigital","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 
@@ -44,6 +44,8 @@ Sobre todo esto hablo en este sitio. ¡Espero te sirva!
 > - 2. Derecho Civil.
 > 	- [[1.1 CIVIL y FAMILIA/1.1.0. Fundamentos/0.0. Introducción al derecho civil (NM)\|Introducción al derecho civil (NM)]]
 
+> [!info] Algunos temas interesantes...
+> 1. [[2.5. ARTÍCULOS DE INTERÉS/Curva del olvido Ebbinghaus La razón por la que no recordamos lo que aprendemos\|La curva de Ebbinghaus, o por qué olvidamos lo que aprendemos]]
 
 > [!abstract] Herramientas de conversión de libros, y de texto
 > 1. [[1.0.1. CEREBRO DIGITAL/4. Conversión de textos y libros/Tareas avanzadas (código)/Corregir anotaciones Kindle\|Limpia las anotaciones de tu Kindle, de modo de traspasarlas a tus notas]]
