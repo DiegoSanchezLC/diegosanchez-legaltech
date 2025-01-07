@@ -1486,6 +1486,8 @@ Los informes en derecho, con las firmas del abogado y de la parte o de su procur
 La ejecución de las resoluciones corresponde a los tribunales que las hayan pronunciado en primera o en única instancia. Se procederá a ella una vez que las resoluciones queden ejecutoriadas o causen ejecutoria en conformidad a la ley.
 
 No obstante, los tribunales que conozcan de los recursos de apelación, casación o revisión, ejecutarán los fallos que dicten para la substanciación de dichos recursos. Podrán también decretar el pago de las costas adeudadas a los funcionarios que hayan intervenido en ellos, reservando el de las demás costas para que sea decretado por el tribunal de primera instancia.
+{ #7816cc}
+
 
 ##### ART 232 . 
 
@@ -4699,6 +4701,8 @@ Es de casación en la forma en los casos del ##### ART 768.
 ##### ART 766. 
 
 El recurso de casación en la forma se concede contra las sentencias definitivas, contra las interlocutorias cuando ponen término al juicio o hacen imposible su continuación y, excepcionalmente, contra las sentencias interlocutorias dictadas en segunda instancia sin previo emplazamiento de la parte agraviada, o sin señalar día para la vista de la causa.
+{ #ebcf99}
+
 
 Procederá, asimismo, respecto de las sentencias que se dicten en los juicios o reclamaciones regidos por leyes especiales, con excepción de aquéllos que se refieran a la constitución de las juntas electorales y a las reclamaciones de los avalúos que se practiquen en conformidad a la Ley N* 17.235, sobre Impuesto Territorial y de los demás que prescriban las leyes.
 
@@ -4724,6 +4728,8 @@ El recurso de casación en la forma ha de fundarse precisamente en alguna de las
 En los negocios a que se refiere el inciso segundo del ART 766 sólo podrá fundarse el recurso de casación en la forma en alguna de las causales indicadas en los números 1, 2, 3, 4, 6, 7 y 8 de este ART y también en el número 5* cuando se haya omitido en la sentencia la decisión del asunto controvertido.
 
 No obstante lo dispuesto en este ART, el tribunal podrá desestimar el recurso de casación en la forma, si de los antecedentes aparece de manifiesto que el recurrente no ha sufrido un perjuicio reparable sólo con la invalidación del fallo o cuando el vicio no ha influido en lo dispositivo del mismo.
+{ #mcupp}
+
 
 El tribunal podrá limitarse, asimismo, a ordenar al de la causa que complete la sentencia cuando el vicio en que se funda el recurso sea la falta de pronunciamiento sobre alguna acción o excepción que se haya hecho valer oportunamente en el juicio.
 
@@ -4742,6 +4748,8 @@ La reclamación a que se refiere el inciso primero de este ##### ART deberá hac
 El recurso de casación deberá interponerse dentro de los quince días siguientes a la fecha de notificación de la sentencia contra la cual se recurre, sin perjuicio de lo establecido en el ##### ART 791. En caso que se deduzca recurso de casación de forma y de fondo en contra de una misma resolución, ambos recursos deberán interponerse simultáneamente y en un mismo escrito.
 
 El recurso de casación en la forma contra sentencia de primera instancia deberá interponerse dentro del plazo concedido para deducir el recurso de apelación, y si también se deduce este último recurso, conjuntamente con él.
+{ #94ab6e}
+
 
 ##### ART 771. 
 
@@ -4962,6 +4970,8 @@ El tribunal dictará sentencia dentro de los cuarenta días siguientes a aquel e
 ##### ART 806. 
 
 Cuando el recurso sea de casación en la forma, dispondrá el tribunal que se traigan los autos en relación, y fallará la causa en el término de veinte días contados desde aquél en que terminó la vista.
+{ #edc093}
+
 
 ##### ART 807.
 
