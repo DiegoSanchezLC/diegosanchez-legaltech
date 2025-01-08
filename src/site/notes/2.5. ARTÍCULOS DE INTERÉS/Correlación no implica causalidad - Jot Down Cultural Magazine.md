@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Correlación no implica causalidad - Jot Down Cultural Magazine.md","permalink":"/correlacion-no-implica-causalidad-jot-down-cultural-magazine/","tags":["Articulos"]}
+{"dg-publish":true,"dg-path":" 3. Artículos de interés. /Correlación no implica causalidad - Jot Down Cultural Magazine.md","permalink":"/3-articulos-de-interes/correlacion-no-implica-causalidad-jot-down-cultural-magazine/","tags":["Articulos"]}
 ---
 
 

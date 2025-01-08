@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Curva del olvido Ebbinghaus La razón por la que no recordamos lo que aprendemos.md","permalink":"/curva-del-olvido-ebbinghaus-la-razon-por-la-que-no-recordamos-lo-que-aprendemos/","tags":["CerebroDigital","Productividad","Psicología"]}
+{"dg-publish":true,"dg-path":" 3. Artículos de interés. /Curva del olvido Ebbinghaus La razón por la que no recordamos lo que aprendemos.md","permalink":"/3-articulos-de-interes/curva-del-olvido-ebbinghaus-la-razon-por-la-que-no-recordamos-lo-que-aprendemos/","tags":["CerebroDigital","Productividad","Psicología"]}
 ---
 
 ![curva-del-olvido.jpg](/img/user/2.5.%20ART%C3%8DCULOS%20DE%20INTER%C3%89S/ANEXOS/curva-del-olvido.jpg)

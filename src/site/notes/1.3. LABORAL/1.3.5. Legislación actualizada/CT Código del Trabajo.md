@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"1.3.5. Legislación actualizada/CT Código del Trabajo.md","permalink":"/1-3-5-legislacion-actualizada/ct-codigo-del-trabajo/","tags":["Laboral"]}
+{"dg-publish":true,"dg-path":" 2.3. Laboral /1.3.5. Legislación actualizada/CT Código del Trabajo.md","permalink":"/2-3-laboral/1-3-5-legislacion-actualizada/ct-codigo-del-trabajo/","tags":["Laboral"]}
 ---
 
 # Título preliminar

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Legislación actualizada/CdeC Código de Comercio.md","permalink":"/legislacion-actualizada/cde-c-codigo-de-comercio/","tags":["Comercial","Civil"]}
+{"dg-publish":true,"dg-path":" 2.6. Consumidor, comercial, societario/Legislación actualizada/CdeC Código de Comercio.md","permalink":"/2-6-consumidor-comercial-societario/legislacion-actualizada/cde-c-codigo-de-comercio/","tags":["Comercial","Civil"]}
 ---
 
 

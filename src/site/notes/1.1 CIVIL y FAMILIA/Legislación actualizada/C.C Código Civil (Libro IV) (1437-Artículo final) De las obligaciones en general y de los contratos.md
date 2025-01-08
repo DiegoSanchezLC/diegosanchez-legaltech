@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Legislación actualizada/C.C Código Civil (Libro IV) (1437-Artículo final) De las obligaciones en general y de los contratos.md","permalink":"/legislacion-actualizada/c-c-codigo-civil-libro-iv-1437-articulo-final-de-las-obligaciones-en-general-y-de-los-contratos/","tags":["Civil"]}
+{"dg-publish":true,"dg-path":" 2.1. Civil y Familia/Legislación actualizada/C.C Código Civil (Libro IV) (1437-Artículo final) De las obligaciones en general y de los contratos.md","permalink":"/2-1-civil-y-familia/legislacion-actualizada/c-c-codigo-civil-libro-iv-1437-articulo-final-de-las-obligaciones-en-general-y-de-los-contratos/","tags":["Civil"]}
 ---
 
 ## Título I Definiciones 

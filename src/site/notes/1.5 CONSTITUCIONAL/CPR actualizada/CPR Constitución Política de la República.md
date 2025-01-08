@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"CPR actualizada/CPR Constitución Política de la República.md","permalink":"/cpr-actualizada/cpr-constitucion-politica-de-la-republica/","tags":["Constitucional"]}
+{"dg-publish":true,"dg-path":" 2.4. Constitucional/CPR actualizada/CPR Constitución Política de la República.md","permalink":"/2-4-constitucional/cpr-actualizada/cpr-constitucion-politica-de-la-republica/","tags":["Constitucional"]}
 ---
 
 
