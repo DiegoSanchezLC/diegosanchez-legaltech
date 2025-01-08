@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"1.0. Bienvenida/Captura la información.md","permalink":"/1-0-bienvenida/captura-la-informacion/","tags":["CerebroDigital"]}
+{"dg-publish":true,"dg-path":"1.1. Bienvenida/Captura la información.md","permalink":"/1-1-bienvenida/captura-la-informacion/","tags":["CerebroDigital"]}
 ---
 
 # Reflexión inicial, o por qué busqué soluciones para capturar

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":" 1.2. Derecho Procesal/1.2.6. Legislación actualizada/CdePP Código de Procedimiento Penal.md","permalink":"/1-2-derecho-procesal/1-2-6-legislacion-actualizada/cde-pp-codigo-de-procedimiento-penal/","tags":["ProcesalPenal","Penal"]}
+{"dg-publish":true,"dg-path":" 1.3. Derecho Procesal/1.2.6. Legislación actualizada/CdePP Código de Procedimiento Penal.md","permalink":"/1-3-derecho-procesal/1-2-6-legislacion-actualizada/cde-pp-codigo-de-procedimiento-penal/","tags":["ProcesalPenal","Penal"]}
 ---
 
 # Libro Primero: Disposiciones relativas al juicio criminal

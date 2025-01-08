@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":" 1.1. Cerebro Digital/4. Conversión de textos y libros/Tareas avanzadas (código)/Corregir anotaciones Kindle.md","permalink":"/1-1-cerebro-digital/4-conversion-de-textos-y-libros/tareas-avanzadas-codigo/corregir-anotaciones-kindle/"}
+{"dg-publish":true,"dg-path":" 1.2. Cerebro Digital/4. Conversión de textos y libros/Tareas avanzadas (código)/Corregir anotaciones Kindle.md","permalink":"/1-2-cerebro-digital/4-conversion-de-textos-y-libros/tareas-avanzadas-codigo/corregir-anotaciones-kindle/"}
 ---
 
 # Introducción
