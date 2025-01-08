@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"1. Bienvenida/Bienvenido a mi jardín digital.md","permalink":"/1-bienvenida/bienvenido-a-mi-jardin-digital/","tags":["CerebroDigital","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"dg-path":"1. Bienvenida/Bienvenido a mi jardín digital.md","permalink":"/1-bienvenida/bienvenido-a-mi-jardin-digital/","tags":["CerebroDigital","gardenEntry"]}
 ---
 
 
@@ -46,6 +46,8 @@ Sobre todo esto hablo en este sitio. ¡Espero te sirva!
 
 > [!help] Algunos temas interesantes...
 > 1. [[2.5. ARTÍCULOS DE INTERÉS/Curva del olvido Ebbinghaus La razón por la que no recordamos lo que aprendemos\|La curva de Ebbinghaus, o por qué olvidamos lo que aprendemos]]
+> 2. [[2.5. ARTÍCULOS DE INTERÉS/Correlación no implica causalidad - Jot Down Cultural Magazine\|Correlación no implica causalidad]]
+> 3. [[2.5. ARTÍCULOS DE INTERÉS/Las 15 mejores herramientas OSINT  Odin 2\|Las 15 mejores herramientas OSINT  Odin 2]]
 
 > [!abstract] Herramientas de conversión de libros, y de texto
 > 1. [[1.0.1. CEREBRO DIGITAL/4. Conversión de textos y libros/Tareas avanzadas (código)/Corregir anotaciones Kindle\|Limpia las anotaciones de tu Kindle, de modo de traspasarlas a tus notas]]
