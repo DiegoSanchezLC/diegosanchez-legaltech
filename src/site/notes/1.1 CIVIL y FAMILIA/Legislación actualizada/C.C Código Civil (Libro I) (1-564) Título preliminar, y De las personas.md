@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-1-civil-y-familia/legislacion-actualizada/c-c-codigo-civil-libro-i-1-564-titulo-preliminar-y-de-las-personas/","tags":["Civil"]}
+{"dg-publish":true,"dg-path":"Legislación actualizada/C.C Código Civil (Libro I) (1-564) Título preliminar, y De las personas.md","permalink":"/legislacion-actualizada/c-c-codigo-civil-libro-i-1-564-titulo-preliminar-y-de-las-personas/","tags":["Civil"]}
 ---
 
 ### Título preliminar 

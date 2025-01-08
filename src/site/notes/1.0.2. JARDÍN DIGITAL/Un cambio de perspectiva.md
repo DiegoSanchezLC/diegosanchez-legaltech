@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"1.1. Bienvenida/Un cambio de perspectiva.md","permalink":"/1-1-bienvenida/un-cambio-de-perspectiva/"}
+{"dg-publish":true,"dg-path":"1. Bienvenida/Un cambio de perspectiva.md","permalink":"/1-bienvenida/un-cambio-de-perspectiva/"}
 ---
 
 # Dónde surgió mi inquietud

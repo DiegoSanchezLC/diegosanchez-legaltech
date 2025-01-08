@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-1-civil-y-familia/legislacion-actualizada/ltf-ley-de-tribunales-de-familia/","tags":["Familia"]}
+{"dg-publish":true,"dg-path":"Legislación actualizada/LTF Ley de Tribunales de Familia.md","permalink":"/legislacion-actualizada/ltf-ley-de-tribunales-de-familia/","tags":["Familia"]}
 ---
 
 

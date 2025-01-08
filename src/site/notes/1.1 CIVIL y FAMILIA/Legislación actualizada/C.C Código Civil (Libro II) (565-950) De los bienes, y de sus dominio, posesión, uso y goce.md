@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-1-civil-y-familia/legislacion-actualizada/c-c-codigo-civil-libro-ii-565-950-de-los-bienes-y-de-sus-dominio-posesion-uso-y-goce/","tags":["Civil"]}
+{"dg-publish":true,"dg-path":"Legislación actualizada/C.C Código Civil (Libro II) (565-950) De los bienes, y de sus dominio, posesión, uso y goce.md","permalink":"/legislacion-actualizada/c-c-codigo-civil-libro-ii-565-950-de-los-bienes-y-de-sus-dominio-posesion-uso-y-goce/","tags":["Civil"]}
 ---
 
 ### Título I: De las varias clases de bienes DE LAS VARIAS CLASES DE BIENES

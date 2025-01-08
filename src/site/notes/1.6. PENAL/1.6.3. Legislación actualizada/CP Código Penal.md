@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-6-penal/1-6-3-legislacion-actualizada/cp-codigo-penal/","tags":["Penal"]}
+{"dg-publish":true,"dg-path":"1.6.3. Legislación actualizada/CP Código Penal.md","permalink":"/1-6-3-legislacion-actualizada/cp-codigo-penal/","tags":["Penal"]}
 ---
 
 # Libro primero 

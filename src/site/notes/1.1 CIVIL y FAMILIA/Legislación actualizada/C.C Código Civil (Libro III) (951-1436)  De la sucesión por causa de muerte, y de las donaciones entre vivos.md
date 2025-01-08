@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-1-civil-y-familia/legislacion-actualizada/c-c-codigo-civil-libro-iii-951-1436-de-la-sucesion-por-causa-de-muerte-y-de-las-donaciones-entre-vivos/","tags":["Civil"]}
+{"dg-publish":true,"dg-path":"Legislación actualizada/C.C Código Civil (Libro III) (951-1436)  De la sucesión por causa de muerte, y de las donaciones entre vivos.md","permalink":"/legislacion-actualizada/c-c-codigo-civil-libro-iii-951-1436-de-la-sucesion-por-causa-de-muerte-y-de-las-donaciones-entre-vivos/","tags":["Civil"]}
 ---
 
 ## Título I: Definiciones y reglas generales
