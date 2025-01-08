@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"dg-path":"1. Bienvenida/Automatiza tu flujo de trabajo.md","permalink":"/1-bienvenida/automatiza-tu-flujo-de-trabajo/"}
+{"dg-publish":true,"dg-path":" Bienvenida/Automatiza tu flujo de trabajo.md","permalink":"/bienvenida/automatiza-tu-flujo-de-trabajo/"}
 ---
 
