@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"dg-path":" Bienvenida/Socializa tu conocimiento.md","permalink":"/bienvenida/socializa-tu-conocimiento/"}
+{"dg-publish":true,"dg-path":"1. Bienvenida/Socializa tu conocimiento.md","permalink":"/1-bienvenida/socializa-tu-conocimiento/"}
 ---
 

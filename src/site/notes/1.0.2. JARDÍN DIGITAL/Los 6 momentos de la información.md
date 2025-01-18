@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":" Bienvenida/Los 6 momentos de la información.md","permalink":"/bienvenida/los-6-momentos-de-la-informacion/","tags":["CerebroDigital"]}
+{"dg-publish":true,"dg-path":"1. Bienvenida/Los 6 momentos de la información.md","permalink":"/1-bienvenida/los-6-momentos-de-la-informacion/","tags":["CerebroDigital"]}
 ---
 
 # Introducción

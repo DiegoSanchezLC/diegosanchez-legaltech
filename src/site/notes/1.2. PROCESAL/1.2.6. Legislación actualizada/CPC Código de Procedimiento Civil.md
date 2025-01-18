@@ -4371,7 +4371,7 @@ Inmediatamente deberá entregarse al demandante copia autorizada del acta y de s
 
 ##### ART 705. 
 
-La demanda y la primera resolución de cualquiera gestión anterior a ésta se notificará personalmente al demandado por medio de un receptor, si lo hay, y no habiéndolo o si está inhabilitado, por medio de un vecino de la confianza del tribunal, que sea mayor de edad y sepa leer y escribir o por un miembro del Cuerpo de Carabineros. Deberá entregarse copia íntegra del acta y del proveído a que se refiere el ##### ART anterior.
+La demanda y la primera resolución de cualquiera gestión anterior a ésta se notificará personalmente al demandado por medio de un receptor, si lo hay, y no habiéndolo o si está inhabilitado, por medio de un vecino de la confianza del tribunal, que sea mayor de edad y sepa leer y escribir o por un miembro del Cuerpo de Carabineros. Deberá entregarse copia íntegra del acta y del proveído a que se refiere el ART anterior.
 
 Las mismas personas podrán practicar la notificación establecida en el ##### ART 44 cuando ella sea procedente.
 
