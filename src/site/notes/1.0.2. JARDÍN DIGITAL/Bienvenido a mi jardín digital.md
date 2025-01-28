@@ -36,7 +36,7 @@ Sobre todo esto hablo en este sitio. ¡Espero te sirva!
 > 10. [[1.2. PROCESAL/1.2.6. Legislación actualizada/CdePP Código de Procedimiento Penal\| Antiguo Código de Procedimiento penal]]
 > 11. [[1.5 CONSTITUCIONAL/CPR actualizada/CPR Constitución Política de la República\| Constitución Política de la República]]
 > 12. [[1.6. PENAL/1.6.3. Legislación actualizada/CP Código Penal\|Código Penal]]
-> 13. [[1.7. CONSUMIDOR, COMERCIAL, SOCIETARIO/Legislación actualizada/CdeC Código de Comercio\|Código de Comercio]]
+> 13. [[1.7. CONSUMIDOR, COMERCIAL, SOCIETARIO, TRIBUTARIO/Legislación actualizada/CdeC Código de Comercio\|Código de Comercio]]
 
 > [!tip] Derecho y doctrina.
 > - 1. Derecho Procesal.

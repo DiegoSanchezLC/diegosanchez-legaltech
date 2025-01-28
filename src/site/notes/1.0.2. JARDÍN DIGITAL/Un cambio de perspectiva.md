@@ -23,9 +23,8 @@ Estos son los que llamo "[[1.0.2. JARDÍN DIGITAL/Los 6 momentos de la informaci
 # Crítica y propuesta
 
 Pienso que la educación tradicional falla respecto a los siguientes puntos:
-1. Condena a la mayoría de sus estudiantes a ser la sombra de aquellos que manejan los sistemas de gestión de conocimiento personal más avanzados, sean estos físicos o digitales;
-2. Aprender estos métodos supone una inversión de tiempo o recursos importante. Como consecuencia de esto, la élite de los conocimientos se guarda para sí sus propios métodos;
-3. Las casas de estudio no invierten en la enseñanza de métodos eficaces para un aprendizaje a largo plazo: les basta constatar que aprendes a corto plazo (examen). Luego, lo que ocurra es tú problema;
+1. Aprender estos métodos supone una inversión de tiempo o recursos importante. Como consecuencia de esto, no se contempla a la hora de impartir educación express;
+3. Las casas de estudio no invierten en la enseñanza de métodos eficaces para un aprendizaje a largo plazo: les basta constatar que aprendes a corto plazo (examen);
 4. Como consecuencia de lo anterior, el "aprendizaje" es apenas una minúscula parte de lo que una persona puede lograr;
 5. Una vez que el joven alcanza la madurez para comprender estas ideas, ya ha pasado mucho tiempo. 
 

@@ -1654,6 +1654,8 @@ Admitida la demanda, se conferirá traslado de ella al demandado para que la con
 ##### ART 258. 
 
 El término de emplazamiento para contestar la demanda será de dieciocho días si el demandado es notificado en el territorio jurisdiccional del tribunal en que se haya presentado la demanda.
+{ #07453d}
+
 
 NOTA Véase el Decreto con Fuerza de Ley 1, Hacienda, publicado el 07.08.1993, que fija el texto refundido, coordinado y sistematizado de la Ley Orgánica del Consejo de Defensa del Estado.
 
@@ -1934,7 +1936,7 @@ Las excepciones dilatorias deben oponerse todas en un mismo escrito y dentro del
 
 Si así no se hace, se podrán oponer en el progreso del juicio sólo por vía de alegación o defensa, y se estará a lo dispuesto en los ARTs 85 y 86.
 
-Las excepciones la. y 3a. del ##### ART 303 podrán oponerse en segunda instancia en forma de incidente. 
+Las excepciones 1a. y 3a. del ART 303 podrán oponerse en segunda instancia en forma de incidente. 
 
 ##### ART 306 . 
 
@@ -2205,11 +2207,13 @@ Según lo dispuesto por la Convención a que se refiere el inciso primero, no po
 
 Los instrumentos privados se tendrán por reconocidos:
 - 1º Cuando así lo ha declarado en el juicio la persona a cuyo nombre aparece otorgado el instrumento o la parte contra quien se hace valer;
-- 2º Cuando ¡igual declaración se ha hecho en un instrumento público o en otro juicio diverso;
+- 2º Cuando igual declaración se ha hecho en un instrumento público o en otro juicio diverso;
 - 3º Cuando, puestos en conocimiento de la parte contraria, no se alega su falsedad o falta de integridad dentro de los seis días siguientes a su presentación, debiendo el tribunal, para este efecto, apercibir a aquella parte con el reconocimiento tácito del instrumento si nada expone dentro de dicho plazo; y
 - 4º Cuando se declare la autenticidad del instrumento por resolución judicial.
 
-##### ART 347 . Los instrumentos extendidos en lengua extranjera se mandarán traducir por el perito que el tribunal designe, a costa del que los presente, sin perjuicio de lo que se resuelva sobre costas en la sentencia.
+##### ART 347 . 
+
+Los instrumentos extendidos en lengua extranjera se mandarán traducir por el perito que el tribunal designe, a costa del que los presente, sin perjuicio de lo que se resuelva sobre costas en la sentencia.
 
 Si al tiempo de acompañarse se agrega su traducción, valdrá ésta; salvo que la parte contraria exija, dentro de seis días, que sea revisada por un perito, procediéndose en tal caso como lo dispone el inciso anterior.
 
