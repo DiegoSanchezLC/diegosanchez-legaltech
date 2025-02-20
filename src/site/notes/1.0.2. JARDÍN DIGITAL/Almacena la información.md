@@ -39,7 +39,7 @@ En cuanto a la ordenación alfanumérica, te recomiendo seguir un esquema genera
 Te recomiendo crear notas madre desde un inicio. Esto te facilitará encontrar notas a las cuales deseas acceder rápidamente, así como tener una visión panorámica de una materia en específico.
 Crear una carpeta para cada tema en específico es ineficiente y genera confusión. Para cada materia, puedes utilizar las carpetas. Pero para cada gran tema dentro de esas materias, deberías utilizar notas madre. Mira un ejemplo de una nota madre de cómo hacer pizza:
 
-![Ejemplo nota madre pizzas.png|800](/img/user/1.0.1.%20CEREBRO%20DIGITAL/6.%20Convi%C3%A9rtete%20en%20el%20estudiante%20definitivo%20con%20estas%20herramientas%20digitales/ANEXOS/Ejemplo%20nota%20madre%20pizzas.png)
+![Ejemplo nota madre pizzas.png|800](/img/user/1.0.1.%20CEREBRO%20DIGITAL/2.%20S%C3%A9%20el%20estudiante%20definitivo/ANEXOS/Ejemplo%20nota%20madre%20pizzas.png)
 
 Esta forma de ordenar tus notas sirve para cualquier tema que te propongas estudiar. Como puedes observar, lo que hice fue crear callouts de distinto color, con un título que refiere a un tema grande, y cada callout tiene una lista numerada de las notas que contiene este tema. 
 Esto podría servir incluso para tus propios emprendimientos. Ejemplo, la nota madre podría redirigir a:

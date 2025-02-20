@@ -827,7 +827,7 @@ En todos los otros la mala fe deberá probarse.
 
 ##### ART 708. 
 
-Posesión irregular es la que carece de uno o más de los requisitos señalados en el ART 702.
+Posesión irregular es la que carece de uno o más de los requisitos señalados en el [[1.1 CIVIL y FAMILIA/Legislación actualizada/C.C Código Civil (Libro II) (565-950) De los bienes, y de sus dominio, posesión, uso y goce#ART 702.\|C.C Código Civil (Libro II) (565-950) De los bienes, y de sus dominio, posesión, uso y goce#ART 702.]].
 
 ##### ART 709. 
 

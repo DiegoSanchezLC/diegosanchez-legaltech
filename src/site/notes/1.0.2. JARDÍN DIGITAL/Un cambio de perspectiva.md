@@ -4,7 +4,7 @@
 
 # Dónde surgió mi inquietud
 
-![Foto 2 inicio presentación.jpg|200](/img/user/1.0.1.%20CEREBRO%20DIGITAL/1.%20T%C3%A9cnicas%20avanzadas%20de%20estudio%20y%20Cerebro%20Digital/Multimedia/Foto%202%20inicio%20presentaci%C3%B3n.jpg)
+![Foto 2 inicio presentación.jpg|200](/img/user/1.0.1.%20CEREBRO%20DIGITAL/2.%20S%C3%A9%20el%20estudiante%20definitivo/1.%20T%C3%A9cnicas%20avanzadas%20de%20estudio%20y%20Cerebro%20Digital/Multimedia/Foto%202%20inicio%20presentaci%C3%B3n.jpg)
 
 Siempre me llamó la atención el modo en que captamos la información, y la utilidad práctica que le damos a través del tiempo. 
 Nos han enseñado que la lectura es una virtud por sí sola, pero no nos han advertido de algunos males que merman el rendimiento académico, y luego, profesional.

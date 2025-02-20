@@ -5,7 +5,7 @@
 
 # Mensaje de bienvenida
 
-![Nuevo Banner Diego Sánchez Licenciado.png](/img/user/1.0.1.%20CEREBRO%20DIGITAL/6.%20Convi%C3%A9rtete%20en%20el%20estudiante%20definitivo%20con%20estas%20herramientas%20digitales/ANEXOS/Nuevo%20Banner%20Diego%20S%C3%A1nchez%20Licenciado.png)
+![Nuevo Banner Diego Sánchez Licenciado.png](/img/user/1.0.1.%20CEREBRO%20DIGITAL/2.%20S%C3%A9%20el%20estudiante%20definitivo/ANEXOS/Nuevo%20Banner%20Diego%20S%C3%A1nchez%20Licenciado.png)
 
 ¡Bienvenido a mi Jardín Digital! Mi nombre es Diego Sánchez, y soy Licenciado en Ciencias Jurídicas y Sociales. 
 Mi interés abarca diversas áreas del derecho, pero en particular, me interesa la tecnología y la inteligencia artificial aplicada al derecho. 
@@ -34,9 +34,9 @@ Sobre todo esto hablo en este sitio. ¡Espero te sirva!
 > 8. [[1.2. PROCESAL/1.2.6. Legislación actualizada/CPP Código Procesal Penal\|Código Procesal Penal]]
 > 9. [[1.1 CIVIL y FAMILIA/Legislación actualizada/LTF Ley de Tribunales de Familia\|Ley de Tribunales de Familia]]
 > 10. [[1.2. PROCESAL/1.2.6. Legislación actualizada/CdePP Código de Procedimiento Penal\| Antiguo Código de Procedimiento penal]]
-> 11. [[1.5 CONSTITUCIONAL/CPR actualizada/CPR Constitución Política de la República\| Constitución Política de la República]]
+> 11. [[1.5 CONSTITUCIONAL/CPR y LOC 's actualizadas/CPR Constitución Política de la República\| Constitución Política de la República]]
 > 12. [[1.6. PENAL/1.6.3. Legislación actualizada/CP Código Penal\|Código Penal]]
-> 13. [[1.7. CONSUMIDOR, COMERCIAL, SOCIETARIO, TRIBUTARIO/Legislación actualizada/CdeC Código de Comercio\|Código de Comercio]]
+> 13. [[1.3. CONSUMIDOR, COMERCIAL, SOCIETARIO, TRIBUTARIO/Legislación actualizada/CdeC Código de Comercio\|Código de Comercio]]
 
 > [!tip] Derecho y doctrina.
 > - 1. Derecho Procesal.
@@ -45,7 +45,7 @@ Sobre todo esto hablo en este sitio. ¡Espero te sirva!
 > 	- [[1.1 CIVIL y FAMILIA/1.1.0. Fundamentos/0.0. Introducción al derecho civil (NM)\|Introducción al derecho civil (NM)]]
 
 > [!help] Algunos temas interesantes...
-> 1. [[2.5. ARTÍCULOS DE INTERÉS/Curva del olvido Ebbinghaus La razón por la que no recordamos lo que aprendemos\|La curva de Ebbinghaus, o por qué olvidamos lo que aprendemos]]
+> 1. [[2.5. ARTÍCULOS DE INTERÉS/La curva del olvido de Ebbinghaus y algunas estrategias de aprendizaje – Neurodidactic\|La curva del olvido de Ebbinghaus y algunas estrategias de aprendizaje – Neurodidactic]]
 > 2. [[2.5. ARTÍCULOS DE INTERÉS/Correlación no implica causalidad - Jot Down Cultural Magazine\|Correlación no implica causalidad]]
 > 3. [[2.5. ARTÍCULOS DE INTERÉS/Las 15 mejores herramientas OSINT  Odin 2\|Las 15 mejores herramientas OSINT  Odin 2]]
 

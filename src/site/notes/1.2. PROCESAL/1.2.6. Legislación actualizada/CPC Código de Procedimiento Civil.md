@@ -911,7 +911,7 @@ El procedimiento se entiende abandonado cuando todas las partes que figuran en e
 
 El abandono podrá hacerse valer sólo por el demandado, durante todo el juicio y hasta que se haya dictado sentencia ejecutoriada en la causa.
 
-En los procedimientos ejecutivos el ejecutado podrá, además, solicitar el abandono del procedimiento, después de ejecutoriada la sentencia definitiva o en el caso del ##### ART 472. En estos casos, el plazo para declarar el abandono del procedimiento será de tres años contados desde la fecha de la última gestión útil, hecha en el procedimiento de apremio, destinado a obtener el cumplimiento forzado de la obligación, luego de ejecutoriada la sentencia definitiva o vencido el plazo para oponer excepciones, en su caso. En el evento que la última diligencia útil sea de fecha anterior, el plazo se contará desde la fecha en que quedó ejecutoriada la sentencia definitiva o venció el plazo para oponer excepciones. En estos casos, si se declara el abandono del procedimiento sin que medie oposición del ejecutante, éste no será condenado en costas.
+En los procedimientos ejecutivos el ejecutado podrá, además, solicitar el abandono del procedimiento, después de ejecutoriada la sentencia definitiva o en el caso del ART 472. En estos casos, el plazo para declarar el abandono del procedimiento será de tres años contados desde la fecha de la última gestión útil, hecha en el procedimiento de apremio, destinado a obtener el cumplimiento forzado de la obligación, luego de ejecutoriada la sentencia definitiva o vencido el plazo para oponer excepciones, en su caso. En el evento que la última diligencia útil sea de fecha anterior, el plazo se contará desde la fecha en que quedó ejecutoriada la sentencia definitiva o venció el plazo para oponer excepciones. En estos casos, si se declara el abandono del procedimiento sin que medie oposición del ejecutante, éste no será condenado en costas.
 
 ##### ART 154 . 
 
@@ -1681,7 +1681,7 @@ Estas modificaciones se considerarán como una demanda nueva para los efectos de
 
 ##### ART 262. 
 
-En todo juicio civil, en que legalmente sea admisible la transacción, con excepción de los juicios o procedimientos especiales de que tratan los Títulos l, Il, 111, V y XVI del Libro III, una vez agotados los trámites de discusión y siempre que no se trate de los casos mencionados en el ##### ART 313, el juez llamará a las partes a conciliación y les propondrá personalmente bases de arreglo. Para tales efectos, las citará a una audiencia para un día no anterior al quinto ni posterior al decimoquinto contado desde la fecha de notificación de la resolución. Con todo, en los procedimientos que contemplan una audiencia para recibir la contestación de la demanda, se efectuará también en ella la diligencia de conciliación, evacuado que sea dicho trámite.
+En todo juicio civil, en que legalmente sea admisible la transacción, con excepción de los juicios o procedimientos especiales de que tratan los Títulos l, Il, 111, V y XVI del Libro III, una vez agotados los trámites de discusión y siempre que no se trate de los casos mencionados en el ART 313, el juez llamará a las partes a conciliación y les propondrá personalmente bases de arreglo. Para tales efectos, las citará a una audiencia para un día no anterior al quinto ni posterior al decimoquinto contado desde la fecha de notificación de la resolución. Con todo, en los procedimientos que contemplan una audiencia para recibir la contestación de la demanda, se efectuará también en ella la diligencia de conciliación, evacuado que sea dicho trámite.
 
 El precedente llamado a conciliación no obsta a que el juez pueda, en cualquier estado de la causa, efectuar la misma convocatoria, una vez evacuado el trámite de contestación de la demanda.
 
@@ -1709,7 +1709,7 @@ De la conciliación total o parcial se levantará acta, que consignará sólo la
 
 ##### ART 268. 
 
-Si se rechaza la conciliación, o no se efectúa el comparendo, el secretario certificará este hecho de inmediato, y quedará la carpeta electrónica a disposición del juez para que éste, examinándolos por sí mismo, proceda enseguida a dar cumplimiento a lo señalado en el ##### ART 318.
+Si se rechaza la conciliación, o no se efectúa el comparendo, el secretario certificará este hecho de inmediato, y quedará la carpeta electrónica a disposición del juez para que éste, examinándolos por sí mismo, proceda enseguida a dar cumplimiento a lo señalado en el ART 318.
 
 ## Título III: De la jactancia
 
@@ -2094,7 +2094,9 @@ NOTA: Véase la Tabla de emplazamientos de términos de prueba que regirá hasta
 
 El aumento extraordinario para rendir prueba dentro de la República se concederá siempre que se solicite, salvo que haya justo motivo para creer que se pide maliciosamente con el solo propósito de demorar el curso del juicio.
 
-##### ART 331 . No se decretará el aumento extraordinario para rendir prueba fuera de la República sino cuando concurran las circunstancias siguientes:
+##### ART 331 .
+
+No se decretará el aumento extraordinario para rendir prueba fuera de la República sino cuando concurran las circunstancias siguientes:
 - 1a. Que del tenor de la demanda, de la contestación o de otra pieza del expediente aparezca que los hechos a que se refieren las diligencias probatorias solicitadas han acaecido en el país en que deben practicarse dichas diligencias, o que allí existen los medios probatorios que se pretende obtener;
 - 2a. Que se determine la clase y condición de los instrumentos de que el solicitante piensa valerse y el lugar en que se encuentran; y
 - 3a. Que, tratándose de prueba de testigos, se exprese su nombre y residencia o se justifique algún antecedente que haga presumible la conveniencia de obtener sus declaraciones.
@@ -3548,7 +3550,7 @@ Las apelaciones en los juicios posesorios se concederán sólo en el efecto devo
 
 ##### ART 551. 
 
-El que intente querella de amparo expresará en su demanda, a más de las circunstancias enumeradas en el ##### ART 254, las siguientes:
+El que intente querella de amparo expresará en su demanda, a más de las circunstancias enumeradas en el  ART 254, las siguientes:
 - 1º Que personalmente o agregando la de sus antecesores, ha estado en posesión tranquila y no interrumpida durante un año completo del derecho en que pretende ser amparado; y
 - 2º Que se le ha tratado de turbar o molestar su posesión o que en el hecho se le ha turbado o molestado por medio de actos que expresará circunstanciadamente.
 
@@ -3568,7 +3570,7 @@ Esta audiencia tendrá lugar con sólo la parte que asista.
 
 ##### ART 553. 
 
-La notificación de la querella se practicará en conformidad a lo que dispone el Título VI del Libro |; pero en el caso del ##### ART 44 se hará la notificación en la forma indicada en el inciso 2* de dicho ART, aunque el querellado no se encuentre en el lugar del juicio.
+La notificación de la querella se practicará en conformidad a lo que dispone el Título VI del Libro I; pero en el caso del  ART 44 se hará la notificación en la forma indicada en el inciso 2 de dicho ART, aunque el querellado no se encuentre en el lugar del juicio.
 
 En estos casos, si el querellado no se ha hecho parte en primera instancia antes del pronunciamiento de la sentencia definitiva, se pondrá ésta en conocimiento del defensor de ausentes, quien podrá deducir y seguir los recursos a que haya lugar.
 
@@ -4334,13 +4336,15 @@ En este último caso la petición será substanciada y resuelta en la forma pres
 ##### ART 698. 
 
 Los juicios de más de diez unidades tributarias mensuales y que no pasen de quinientas unidades tributarias mensuales, y que no tengan señalado en la ley un procedimiento especial, se someterán al procedimiento ordinario de que trata el Libro Il con las modificaciones siguientes:
+{ #vwz4b}
+
 - 1a. Se omitirán los escritos de réplica y dúplica.
 - Si se deduce reconvención, se dará traslado de ella al demandante por seis días, y con lo que éste exponga o en su rebeldía, se recibirá la causa a prueba;
-- 2a. El término para contestar la demanda será de ocho días, que se aumentará de conformidad a la tabla de emplazamiento. Este aumento no podrá exceder de veinte días, y no regirá para estos juicios la disposición del inciso 2* del ##### ART 258.
-- En el caso del ##### ART 308, el plazo para contestar la demanda será de seis días;
+- 2a. El término para contestar la demanda será de ocho días, que se aumentará de conformidad a la tabla de emplazamiento. Este aumento no podrá exceder de veinte días, y no regirá para estos juicios la disposición del inciso 2 del ART 258.
+- En el caso del ART 308, el plazo para contestar la demanda será de seis días;
 - 3a. Se citará a la audiencia de conciliación para un día no anterior al tercero ni posterior al décimo contado desde la fecha de notificación de la resolución.
 - 4a. El término de prueba será de quince días y podrá aumentarse, extraordinariamente, de conformidad a lo dispuesto en el número anterior;
-- 5a. El término a que se refiere el ##### ART 430 será de seis días;
+- 5a. El término a que se refiere el ART 430 será de seis días;
 - 6a. La sentencia se dictará dentro de los quince días siguientes al de la última notificación de la resolución que cita a las partes para oírla; y
 - 7a. Deducida apelación contra resoluciones que no se refieran a la competencia o a la inhabilidad del tribunal, ni recaigan en incidentes sobre algún vicio que anule el proceso, el juez tendrá por interpuesto el recurso para después de la sentencia que ponga término al juicio. El apelante deberá reproducirlo dentro de los cinco días subsiguientes al de la notificación de la sentencia y en virtud de esta reiteración, lo concederá el tribunal.
 - En los casos de excepción a que se refiere el inciso anterior de este número, como también en los incidentes sobre medidas prejudiciales o precautorias, el recurso se concederá al tiempo de su interposición.
@@ -4355,7 +4359,11 @@ Los alegatos no podrán exceder de 15 minutos, salvo que el tribunal acuerde pro
 
 ##### ART 701. 
 
-El tribunal destinará, por lo menos, un día de cada semana a la vista preferente de estas causas. ##### ART 702. La sentencia deberá dictarse dentro del plazo de 15 días, contado desde el término de la vista de la causa. 
+El tribunal destinará, por lo menos, un día de cada semana a la vista preferente de estas causas. 
+
+##### ART 702.
+
+La sentencia deberá dictarse dentro del plazo de 15 días, contado desde el término de la vista de la causa. 
 
 ### 2. De los juicios de mínima cuantía
 

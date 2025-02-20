@@ -5154,7 +5154,9 @@ El dueño de un edificio es responsable a terceros (que no se hallen en el caso 
 
 Si el edificio perteneciere a dos o más personas proindiviso, se dividirá entre ellas la indemnización a prorrata de sus cuotas de dominio.
 
-###### ART 2324. Si el daño causado por la ruina de un edificio proviniere de un vicio de construcción, tendrá lugar la responsabilidad prescrita en la regla 3.a del artículo 2003.
+###### ART 2324. 
+
+Si el daño causado por la ruina de un edificio proviniere de un vicio de construcción, tendrá lugar la responsabilidad prescrita en la regla 3.a del artículo 2003.
 
 ###### ART 2325. 
 

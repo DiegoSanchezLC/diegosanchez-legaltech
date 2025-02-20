@@ -4706,7 +4706,13 @@ Estos tribunales tendrán, también, las facultades que el artículo 531 otorga 
 
 ##### ART 543.
 
-Si en las faltas de que habla el artículo anterior incurrieren los abogados, podrán también ser castigados con una suspensión del ejercicio de la profesión por un término que no exceda de dos meses y extensiva a todo el territorio de la República. ##### ART 544. Las facultades disciplinarias que corresponden a la Corte Suprema o a las Cortes de Apelaciones, deberán especialmente ejercitarse respecto de los funcionarios del orden judicial que se encuentren en los casos que siguen:
+Si en las faltas de que habla el artículo anterior incurrieren los abogados, podrán también ser castigados con una suspensión del ejercicio de la profesión por un término que no exceda de dos meses y extensiva a todo el territorio de la República. 
+
+
+##### ART 544. 
+
+
+Las facultades disciplinarias que corresponden a la Corte Suprema o a las Cortes de Apelaciones, deberán especialmente ejercitarse respecto de los funcionarios del orden judicial que se encuentren en los casos que siguen:
 1) Cuando faltaren de palabra, por escrito o de obra a sus superiores en el orden jerárquico;
 2) Cuando faltaren gravemente a las consideraciones debidas a otros funcionarios o empleados o a cualquiera persona que solicite el ejercicio de su autoridad o asista por cualquier otro motivo a los estrados;
 3) Cuando se ausentaren sin licencia del lugar de sus funciones, o no concurrieren a ellas en las horas señaladas, o cuando en cualquier forma fueren negligentes en el cumplimiento de sus deberes;
