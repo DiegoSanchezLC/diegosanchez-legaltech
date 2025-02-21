@@ -952,7 +952,7 @@ Se llama decreto, providencia o proveído el que, sin fallar sobre incidentes o 
 ##### ART 159. 
 
 
-Los tribunales, sólo dentro del plazo para dictar sentencia, podrán dictar de oficio medidas para mejor resolver. Las que se dicten fuera de este plazo se tendrán por no decretadas. Sin perjuicio de lo establecido en el inciso primero del ##### ART 431, podrán dictar alguna o algunas de las siguientes medidas:
+Los tribunales, sólo dentro del plazo para dictar sentencia, podrán dictar de oficio medidas para mejor resolver. Las que se dicten fuera de este plazo se tendrán por no decretadas. Sin perjuicio de lo establecido en el inciso primero del ART 431, podrán dictar alguna o algunas de las siguientes medidas:
 
 1a. La agregación de cualquier documento que estimen necesario para esclarecer el derecho de los litigantes;
 
@@ -964,7 +964,7 @@ Los tribunales, sólo dentro del plazo para dictar sentencia, podrán dictar de 
 
 5a. La comparecencia de testigos que hayan declarado en el juicio, para que aclaren o expliquen sus dichos obscuros o contradictorios; y
 
-6a. La presentación de cualesquiera otros autos que tengan relación con el pleito. Esta medida se cumplirá de conformidad a lo establecido en el inciso 3” del ##### ART 37.
+6a. La presentación de cualesquiera otros autos que tengan relación con el pleito. Esta medida se cumplirá de conformidad a lo establecido en el inciso 3 del ART 37.
 
 En este último caso y siempre que se hubiese remitido el expediente original, éste quedará en poder del tribunal que decrete esta medida sólo por el tiempo estrictamente necesario para su examen, no pudiendo exceder de ocho días este término si se trata de autos pendientes.
 
