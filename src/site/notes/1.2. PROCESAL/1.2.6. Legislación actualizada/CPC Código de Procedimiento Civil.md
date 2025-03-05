@@ -233,7 +233,7 @@ En toda gestión judicial, la primera notificación a las partes o personas a qu
 
 ##### ART 41. 
 
-En los lugares y recintos de libre acceso público, la notificación personal se podrá efectuar en cualquier día y a cualquier hora, procurando causar la menor molestia posible al notificado. En los juicios ejecutivos, no podrá efectuarse el requerimiento de pago en público y, de haberse notificado la demanda en un lugar o recinto de libre acceso público, se estará a lo establecido en el N* 1* del ##### ART 443.
+En los lugares y recintos de libre acceso público, la notificación personal se podrá efectuar en cualquier día y a cualquier hora, procurando causar la menor molestia posible al notificado. En los juicios ejecutivos, no podrá efectuarse el requerimiento de pago en público y, de haberse notificado la demanda en un lugar o recinto de libre acceso público, se estará a lo establecido en el Nº1 del ART 443.
 
 Además, la notificación podrá hacerse en cualquier día, entre las seis y las veintidós horas, en la morada o lugar donde pernocta el notificado o en el lugar donde éste ordinariamente ejerce su industria, profesión o empleo, o en cualquier recinto privado en que éste se encuentre y al cual se permita el acceso del ministro de fe.
 
@@ -261,7 +261,7 @@ En caso que la morada o el lugar donde pernocta o el lugar donde habitualmente e
 
 ##### ART 45 . 
 
-La diligencia de notificación, en el caso del ##### ART precedente, se extenderá en la forma que determina el ##### ART 43, siendo obligada a subscribirla la persona que reciba las copias, si puede hacerlo, dejándose testimonio de su nombre, edad, profesión y domicilio.
+La diligencia de notificación, en el caso del ART precedente, se extenderá en la forma que determina el  ART 43, siendo obligada a subscribirla la persona que reciba las copias, si puede hacerlo, dejándose testimonio de su nombre, edad, profesión y domicilio.
 
 ##### ART 46 . 
 
@@ -1925,6 +1925,8 @@ Sólo son admisibles como excepciones dilatorias:
 - 4a. La ineptitud del libelo por razón de falta de algún requisito legal en el modo de proponer la demanda;
 - 5a. El beneficio de excusión; y
 - 6a. En general las que se refieran a la corrección del procedimiento sin afectar al fondo de la acción deducida.
+{ #8ka7a}
+
 
 ##### ART 304 . 
 
@@ -2402,11 +2404,11 @@ El examen se practicará en la forma que establecen los ARTs anteriores, pudiend
 
 Serán admitidos a declarar solamente hasta seis testigos, por cada parte, sobre cada uno de los hechos que deban acreditarse.
 
-Sólo se examinarán testigos que figuren en la nómina a que se refiere el inciso final del ##### ART 320. Podrá, con todo, el tribunal admitir otros testigos en casos muy calificados, y jurando la parte que no tuvo conocimiento de ellos al tiempo de formar la nómina de que trata el inciso anterior.
+Sólo se examinarán testigos que figuren en la nómina a que se refiere el inciso final del ART 320. **Podrá, con todo, el tribunal admitir otros testigos en casos muy calificados**, y jurando la parte que no tuvo conocimiento de ellos al tiempo de formar la nómina de que trata el inciso anterior.
 
 ##### ART 373 . 
 
-Solamente podrán oponerse tachas a los testigos antes de que presten su declaración. En el caso del inciso final del ##### ART anterior, podrán también oponerse dentro de los tres días subsiguientes al examen de los testigos.
+Solamente podrán oponerse tachas a los testigos antes de que presten su declaración. En el caso del inciso final del ART anterior, podrán también oponerse dentro de los tres días subsiguientes al examen de los testigos.
 
 Sólo se admitirán las tachas que se funden en alguna de las inhabilidades mencionadas en los ARTs 357 y 358, y con tal que se expresen con la claridad y especificación necesarias para que puedan ser fácilmente comprendidas.
 
@@ -2775,7 +2777,7 @@ En todo caso, si dicha prueba se recibiera por el tribunal una vez dictada la se
 
 ##### ART 432. 
 
-Vencido el plazo a que se refiere el ##### ART 430, se hayan o no presentado escritos y existan o no diligencias pendientes, el tribunal citará para oír sentencia.
+Vencido el plazo a que se refiere el ART 430, se hayan o no presentado escritos y existan o no diligencias pendientes, el tribunal citará para oír sentencia.
 
 En contra de esta resolución sólo podrá interponerse recurso de reposición, el que deberá fundarse en error de hecho y deducirse dentro de tercero día. La resolución que resuelva la reposición será inapelable.
 
@@ -3371,7 +3373,7 @@ En el primer caso la tercería se llama de dominio, en el segundo de posesión, 
 
 Se substanciará en la forma establecida para las tercerías de dominio la oposición que se funde en el derecho del comunero sobre la cosa embargada.
 
-Se tramitará como incidente la reclamación del ejecutado para que se excluya del embargo alguno de los bienes a que se refiere el ##### ART 445.
+Se tramitará como incidente la reclamación del ejecutado para que se excluya del embargo alguno de los bienes a que se refiere el ART 445.
 
 ##### ART 520. 
 
@@ -3387,7 +3389,7 @@ El ejecutado podrá, sin embargo, hacer valer su derecho en estos casos por medi
 
 La tercería de dominio se seguirá en ramo separado con el ejecutante y el ejecutado, por los trámites del juicio ordinario, pero sin escrito de réplica y dúplica. Las tercerías de posesión, de prelación y de pago se tramitarán como incidente.
 
-El tercerista tendrá el mismo derecho que el ##### ART 457 concede al deudor principal.
+El tercerista tendrá el mismo derecho que el ART 457 concede al deudor principal.
 
 ##### ART 522. 
 
@@ -5063,7 +5065,8 @@ Así, pueden acreditarse los hechos pertinentes por medio de informaciones sumar
 
 Se entiende por información sumaria la prueba de cualquiera especie, rendida sin notificación ni intervención de contradictor y sin previo señalamiento de término probatorio.
 
-NOTA Véase el ##### ART 390 del Código Orgánico de Tribunales.
+> [!note] NOTA 
+> Véase el  [[1.2. PROCESAL/1.2.6. Legislación actualizada/COT Código Orgánico de Tribunales#ART 390.\|ART 390 COT]], respecto a que esta información sumaria se rinde ante un receptor judicial.
 
 ##### ART 819. 
 

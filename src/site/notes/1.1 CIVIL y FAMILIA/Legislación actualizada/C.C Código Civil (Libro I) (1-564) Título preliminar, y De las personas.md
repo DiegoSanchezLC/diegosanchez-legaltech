@@ -2775,7 +2775,7 @@ Con todo, esta inhabilidad no regirá en el caso del ##### ART 135, en el de sep
 
 El hijo no puede ser curador de su padre disipador.
 
-VI. Reglas relativas a la oposición de intereses o diferencia de religión entre el guardador y el pupilo
+##### VI. Reglas relativas a la oposición de intereses o diferencia de religión entre el guardador y el pupilo
 
 ###### ART 505. 
 

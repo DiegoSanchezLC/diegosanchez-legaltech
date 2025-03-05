@@ -5075,7 +5075,7 @@ Las personas patrocinadas por las Corporaciones de Asistencia Judicial o alguna 
 
 Los abogados y procuradores de estas entidades, y los abogados y procuradores del número de turno cuando actúan en tal calidad, no serán responsables del pago de las costas y demás cargos pecuniarios a que sean condenados sus patrocinados.
 
-Las personas que gocen de privilegio de pobreza no serán condenadas al pago de costas, a menos que el tribunal respectivo, en resolucion fundada, declare que han obrado como litigantes temerarios o maliciosos.
+Las personas que gocen de privilegio de pobreza no serán condenadas al pago de costas, a menos que el tribunal respectivo, en resolución fundada, declare que han obrado como litigantes temerarios o maliciosos.
 
 El patrocinio a que se refiere este artículo se acreditará con un certificado otorgado por el representante de la respectiva entidad.
 

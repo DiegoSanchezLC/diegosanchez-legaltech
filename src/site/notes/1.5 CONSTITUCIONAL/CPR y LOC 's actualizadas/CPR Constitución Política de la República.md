@@ -1160,10 +1160,14 @@ El Tribunal establecerá en su resolución el texto definitivo de la consulta pl
 Si al tiempo de dictarse la sentencia faltaran menos de treinta días para la realización del plebiscito, el Tribunal fijará en ella una nueva fecha comprendida entre los treinta y los sesenta días siguientes al fallo.
 
 En el caso del número 6, la cuestión podrá ser planteada por cualquiera de las partes o por el juez que conoce del asunto. Corresponderá a cualquiera de las salas del Tribunal declarar, sin ulterior recurso, la admisibilidad de la cuestión siempre que verifique la existencia de una gestión pendiente ante el tribunal ordinario o especial, que la aplicación del precepto legal impugnado pueda resultar decisivo en la resolución de un asunto, que la impugnación esté fundada razonablemente y se cumplan los demás requisitos que establezca la ley. A esta misma sala le corresponderá resolver la suspensión del procedimiento en que se ha originado la acción de inaplicabilidad por inconstitucionalidad.
+{ #sw9rl}
+
 
 En el caso del número 7, una vez resuelta en sentencia previa la declaración de inaplicabilidad de un precepto legal, conforme al número 6 de este artículo, habrá acción pública para requerir al Tribunal la declaración de inconstitucionalidad, sin perjuicio de la facultad de éste para declararla de oficio. Corresponderá a la ley orgánica constitucional respectiva establecer los requisitos de admisibilidad, en el caso de que se ejerza la acción pública, como asimismo regular el procedimiento que deberá seguirse para actuar de oficio.
 
 En los casos del número 8, la cuestión podrá promoverse por cualquiera de las Cámaras o por una cuarta parte de sus miembros en ejercicio, dentro de los treinta días siguientes a la publicación del texto impugnado o dentro de los sesenta días siguientes a la fecha en que el Presidente de la República debió efectuar la promulgación de la ley. Si el Tribunal acogiera el reclamo, promulgará en su fallo la ley que no lo haya sido o rectificará la promulgación incorrecta.
+{ #apnmc}
+
 
 En el caso del número 11, el Tribunal sólo podrá conocer de la materia a requerimiento del Senado.
 

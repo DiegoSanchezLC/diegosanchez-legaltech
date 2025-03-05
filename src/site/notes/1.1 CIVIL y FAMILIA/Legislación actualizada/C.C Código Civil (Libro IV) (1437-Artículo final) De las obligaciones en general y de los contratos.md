@@ -646,7 +646,8 @@ La promesa de celebrar un contrato no produce obligación alguna; salvo que conc
 - 1ª. Que la promesa conste por escrito; 
 - 2ª. Que el contrato prometido no sea de aquellos que las leyes declaran ineficaces; 
 - 3ª. <mark style='background:var(--mk-color-yellow)'>Que la promesa contenga un plazo o condición</mark> que fije la época de la celebración del contrato; 
-- 4ª. Que en ella se especifique de tal manera el contrato prometido, que sólo falten para que sea perfecto, la tradición de la cosa, o las solemnidades que las leyes prescriban. Concurriendo estas circunstancias habrá lugar a lo prevenido en el artículo precedente.
+- 4ª. Que en ella se especifique de tal manera el contrato prometido, que sólo falten para que sea perfecto, la tradición de la cosa, o las solemnidades que las leyes prescriban. 
+- Concurriendo estas circunstancias habrá lugar a lo prevenido en el artículo precedente.
 
 ###### ART 1555. 
 
