@@ -24,7 +24,8 @@ Sobre todo esto hablo en este sitio. ¡Espero te sirva!
 > 
 
 > [!important] Cerebro Digital aplicado
-> 1. 
+> 1. [[1.0.2. JARDÍN DIGITAL/Netclip - Un portaaviones para tus páginas web útiles\|Netclip - Un portaaviones para tus páginas web útiles]]
+> 2. 
 
 
 > [!note] Códigos de la República en formato Markdown
