@@ -4,6 +4,7 @@
 
 
 _Este artículo ha obtenido el primer premio del [concurso DIPC de divulgación](http://dipc.ehu.es/) del evento [Ciencia Jot Down 2016](http://ciencia.jotdown.es/)_
+EXTRAÍDO DE JOT DOWN CULTURAL MAGAZINE
 
 Hay afirmaciones que no solo son ciertas, sino que además son poderosas. Una de mis favoritas es, sin duda, «correlación no implica causalidad». En el mundo de los debates públicos, de las peleas en Twitter y los _flames_ en Menéame siempre es útil contar con herramientas como esta. La frase en sí viene a significar que el hecho de que dos eventos se den habitualmente de manera consecutiva no implica que uno sea causa del otro. Así, cuando llueve es más probable que truene, pero no es la lluvia la que causa los truenos.
 

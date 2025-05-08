@@ -2,6 +2,9 @@
 {"dg-publish":true,"dg-path":" 3. Artículos de interés. /Las 15 mejores herramientas OSINT  Odin 2.md","permalink":"/3-articulos-de-interes/las-15-mejores-herramientas-osint-odin-2/","title":"Las 15 mejores herramientas OSINT | Odin","tags":["clippings"]}
 ---
 
+
+EXTRAÍDO DE ODINT.NET.
+
 Siempre es bueno insistir que, en OSINT, **las herramientas no son lo más importante**. Pero también es cierto que, sin aplicaciones y software especializado en fuentes abiertas, no llegaremos muy lejos en una investigación a fondo. Es por eso que, hoy, se muestran las **15 mejores herramientas OSINT** que, por experiencia, han resultado más útiles en investigaciones y actividades de ciberinteligencia.
 
 Como siempre pasa con estas cosas, no será posible enumerarlas todas y habrá quien piense que hay grandes ausencias. Es normal. Este es el secreto de las herramientas OSINT cuando las utilizas en escenarios reales:

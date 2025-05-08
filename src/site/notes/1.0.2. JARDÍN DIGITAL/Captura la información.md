@@ -8,6 +8,15 @@ Nuestro primer momento comprende capturar la información. Ciertamente, es un de
 Me explico. Si necesitas capturar información de un libro físico, necesariamente tendrás que realizar trabajo mecánico y repetitivo para llevarlo a otro lugar, como ser, por ejemplo, [un libro de lugares comunes](https://comein.uoc.edu/divulgacio/comein/es/numero27/articles/Article-Amalia-Creus.html#:~:text=M%C3%A1s%20all%C3%A1%20de%20simples%20transcripciones,utilizar%20en%20sus%20futuros%20escritos.). 
 Sin embargo, todos sabemos que ese trabajo implica fricción. Alguna vez te habrás propuesto realizar un resumen de un libro. Lo lees, lo destacas y lo comentas, y al final, termina juntando polvo en una estantería. Es normal, **nadie debería estar obligado a realizar un ejercicio de voluntad tan ineficiente**. 
 Mi juicio es que en el mundo en que vivimos, necesitamos de herramientas digitales para facilitar nuestro trabajo. Esto implica facilitar la labor de captura de información y de realización de notas vivas. Implica facilitar este proceso de modo que sea menos demandante, en cuanto a tiempo y esfuerzo.
+
+
+# Distinción just in time, just in case 
+
+Antes de continuar, es necesario hacer otro distingo. La captura de información puede ir dirigida a un momento "just in time" o "just in case". 
+- La información just in time (JIT) se adquiere para resolver o realizar una tarea específica en un momento concreto. Es el momento más conocido y aplicado, pues todos lo utilizan de forma eficiente o ineficiente: de forma eficiente, aplicando JIT desde plataformas y bases de datos específicas, que se saben conocidas por el usuario, sólo cuando es necesario; o de forma ineficiente, aplicándolo siempre, es decir, el usuario no cuenta con bases de datos ni sistema de notas que le permitan echar mano a información previamente digerida. 
+- La información just in case (JIC) se aprende o recopila con anticipación, asumiendo que podría ser útil en el futuro. El usuario hace una abstracción de posibles escenarios futuros, de modo de ampliar su conocimiento general y tener una "herramienta lista para la acción futura".
+
+Ambas serán utilizadas en un momento dado. El punto es que en una profesión específica, algunas herramientas serán utilizadas varias veces luego de su primera consulta, por lo que se hace necesario contar con herramientas digitales que permitan acceder a ellas sin estar dando cinco pasos atrás, todo el tiempo. 
 # Captura rápidamente información de internet
 
 Obsidian funciona con Markdown. Esto implica que cualquier tema que nos sea de interés y esté contenido en un sitio web, puede ser capturado y enviado a nuestro cerebro digital utilizando un capturador de Markdown. 
@@ -48,7 +57,7 @@ La gracia del plugin es que cada vez que escribas la expresión, te mostrará el
 A diferencia de otras funciones de Obsidian que sí puedes ver en esta página web, como los enlaces a otras notas, esto de las definiciones no se verá en la página web que estás leyendo, pues Digital Garden aún no tiene compatibilidad con las definiciones. Por eso te dejo una captura de cómo funciona: cada vez que escribas la palabra o concepto, esta aparecerá subrayada en tu nota, y si posicionas tu cursor sobre ella, te mostrará la definición. 
 
 
-![Incardinar.jpg|500](/img/user/Incardinar.jpg)
+![Incardinar.jpg|500](/img/user/Z%20MOVER/Incardinar.jpg)
 
 > [!important] Qué logramos con esto:
 > 1. Nunca partir de cero: el estudiante o profesional nunca partirá de cero con los conceptos que trabaja diariamente, pues el sistema constantemente lo retroalimentará respecto a las palabras o conceptos difíciles.
