@@ -6,14 +6,26 @@
 
 Hasta hace 4 años, seguía repitiendo los mismos métodos que se recomiendan en perfiles de redes sociales para estudiar: subrayaba, colocaba post-it, hacía resúmenes, etc. Pero siempre sentí que faltaba algo. Necesitaba un sistema que me permitiera interconectar la información y el conocimiento, en un ambiente único y ordenado. Este ejercicio se realiza de forma constante en el ámbito jurídico, y en las distintas áreas de conocimiento. "Relacionar las instituciones jurídicas, eso es saber derecho" decía un profesor. 
 
-![Vista gráfica GIF.jpg](/img/user/1.0.2.%20JARD%C3%8DN%20DIGITAL/Vista%20gr%C3%A1fica%20GIF.jpg)
+
+![[Vista gráfica mayo 2025 con música.mp4]]
 
 
 Lo que ves arriba son todas mis notas interconectadas. En este software, me ha sido posible relacionar el conocimiento que he ido adquiriendo, logrando una visión mucho más amplia del derecho que la que tenía antes. Incluso, en mi práctica profesional, he podido relacionar cada aprendizaje de mis causas, con mis notas previas, con las distintas leyes sustantivas y de procedimiento, e incluso con usos forenses. La perspectiva que te otorga un sistema como este, no tiene comparación. Por eso se denominan modernos gestores de conocimiento personal.
 
-La metodología del cerebro digital rompe barreras y refuerza nuestra confianza a la hora de afrontar grandes desafíos, como es el examen de grado. Es una actualización en cuanto a la gestión del conocimiento personal, en un mundo digitalizado. El mundo ya no se rige por agendas o libretas de papel, sino que por pantallas, y como dice Jesús G. Maestro:
+La metodología del cerebro digital rompe barreras y refuerza nuestra confianza a la hora de afrontar grandes desafíos, como es el examen de grado. Es una actualización en cuanto a la gestión del conocimiento personal, en un mundo digitalizado. Como dice Jesús G. Maestro:
 
 > "*No se debe educar para negar las pantallas, sino para sobrevivir en un mundo intervenido por ellas. Las pantallas son un medio, no un fin, y deben ser incorporadas de forma articulada*"
+
+
+# Qué obtendrás al acceder a esta formación
+
+
+1. Un sistema que te permitirá superar el examen de grado con un esfuerzo estándar y razonable, sin torturarte leyendo apuntes una y otra vez intentando memorizar algo. 
+2. Te formarás sobre los esenciales del derecho y sus casos prácticos, adquiriendo una perspectiva de aprendizaje activo, y no pasivo. Normalmente, el sistema educativo te posiciona en una perspectiva pasiva (acudes a una clase, escuchas al profesor, realizas una que otra pregunta y te retiras). La metodología del cerebro digital apuesta por que te conviertas en protagonista de las distintas etapas de aprendizaje. 
+3. Te actualizarás en cuanto a los modernos gestores de conocimiento personal, posicionándote a la vanguardia de la gestión de la información y el conocimiento. 
+4. Aprenderás a capturar y almacenar información útil en tus notas, distinguiendo qué es información just-in-time y cuál es just-in-case.
+5. Memorizarás una cantidad considerable de información, en poco tiempo. 
+6. Este sistema te servirá no sólo para el examen de grado sino que para toda tu vida personal y profesional.
 
 
 # Cómo se procederá a las sesiones de estudio
@@ -25,10 +37,12 @@ La metodología del cerebro digital rompe barreras y refuerza nuestra confianza 
 5. Para el ejercicio de examen de grado de Octubre de 2025, se recibirán gradistas que estén por cursar cualquier examen de grado: primer, segundo o tercer ejercicio. El tiempo permitirá abarcar todas las materias de forma integral. 
 # Del material de estudio
 
-7. Este profesor suministrará su material de estudio personal, el cual contiene un importante grado de profundización, para que el estudiante estudie con él por cuenta propia. 
-8. También, suministrará tarjetas de estudio digitales para que los gradistas puedan memorizar mucho, en poco tiempo. 
-9. Sugerirá concordancias en los diversos códigos legales, de modo de que al momento de enfrentar una pregunta difícil, el gradista pueda echar mano a concordancias útiles que completen su entendimiento sobre un artículo. 
-10. Finalmente, compartirá material de estudio de terceros. 
+
+1. Se conferirá una copia exacta del cerebro digital del profesor, con todas las herramientas útiles para que gestiones tu conocimiento. 
+2. Este profesor suministrará su material de estudio personal, el cual contiene un importante grado de profundización, para que el estudiante estudie con él por cuenta propia. 
+3. También, suministrará tarjetas de estudio digitales para que los gradistas puedan memorizar mucho, en poco tiempo. 
+4. Sugerirá concordancias en los diversos códigos legales, de modo de que al momento de enfrentar una pregunta difícil, el gradista pueda echar mano a concordancias útiles que completen su entendimiento sobre un artículo. 
+5. Finalmente, compartirá material de estudio de terceros. 
 
 
 # Del ingreso y el precio
