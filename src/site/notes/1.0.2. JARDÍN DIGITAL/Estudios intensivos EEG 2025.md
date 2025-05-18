@@ -6,8 +6,7 @@
 
 Hasta hace 4 años, seguía repitiendo los mismos métodos que se recomiendan en perfiles de redes sociales para estudiar: subrayaba, colocaba post-it, hacía resúmenes, etc. Pero siempre sentí que faltaba algo. Necesitaba un sistema que me permitiera interconectar la información y el conocimiento, en un ambiente único y ordenado. Este ejercicio se realiza de forma constante en el ámbito jurídico, y en las distintas áreas de conocimiento. "Relacionar las instituciones jurídicas, eso es saber derecho" decía un profesor. 
 
-
-![[Vista gráfica mayo 2025 con música.mp4]]
+![Vista gráfica mayo 2025](https://www.youtube.com/watch?v=2kTcOSsQpV4)
 
 
 Lo que ves arriba son todas mis notas interconectadas. En este software, me ha sido posible relacionar el conocimiento que he ido adquiriendo, logrando una visión mucho más amplia del derecho que la que tenía antes. Incluso, en mi práctica profesional, he podido relacionar cada aprendizaje de mis causas, con mis notas previas, con las distintas leyes sustantivas y de procedimiento, e incluso con usos forenses. La perspectiva que te otorga un sistema como este, no tiene comparación. Por eso se denominan modernos gestores de conocimiento personal.
@@ -37,13 +36,8 @@ La metodología del cerebro digital rompe barreras y refuerza nuestra confianza 
 5. Para el ejercicio de examen de grado de Octubre de 2025, se recibirán gradistas que estén por cursar cualquier examen de grado: primer, segundo o tercer ejercicio. El tiempo permitirá abarcar todas las materias de forma integral. 
 # Del material de estudio
 
-
-1. Se conferirá una copia exacta del cerebro digital del profesor, con todas las herramientas útiles para que gestiones tu conocimiento. 
-2. Este profesor suministrará su material de estudio personal, el cual contiene un importante grado de profundización, para que el estudiante estudie con él por cuenta propia. 
-3. También, suministrará tarjetas de estudio digitales para que los gradistas puedan memorizar mucho, en poco tiempo. 
-4. Sugerirá concordancias en los diversos códigos legales, de modo de que al momento de enfrentar una pregunta difícil, el gradista pueda echar mano a concordancias útiles que completen su entendimiento sobre un artículo. 
-5. Finalmente, compartirá material de estudio de terceros. 
-
+Se conferirá una copia exacta del cerebro digital del profesor, con todas las herramientas útiles para que gestiones tu conocimiento. También, apuntes y códigos legales en formato de nota, para que comiences de inmediato a conectar las ideas. 
+Finalmente, se suministrará material de estudio propio y de terceros. 
 
 # Del ingreso y el precio
 
