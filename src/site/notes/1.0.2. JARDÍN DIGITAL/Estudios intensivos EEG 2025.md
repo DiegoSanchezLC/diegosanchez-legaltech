@@ -6,7 +6,7 @@
 
 Hasta hace 4 años, seguía repitiendo los mismos métodos que se recomiendan en perfiles de redes sociales para estudiar: subrayaba, colocaba post-it, hacía resúmenes, etc. Pero siempre sentí que faltaba algo. Necesitaba un sistema que me permitiera interconectar la información y el conocimiento, en un ambiente único y ordenado. Este ejercicio se realiza de forma constante en el ámbito jurídico, y en las distintas áreas de conocimiento. "Relacionar las instituciones jurídicas, eso es saber derecho" decía un profesor. 
 
-https://www.youtube.com/watch?v=2kTcOSsQpV4
+![[Vista gráfica mayo 2025 Obsidian.mp4|645]]
 
 
 Lo que ves arriba son todas mis notas interconectadas. En este software, me ha sido posible relacionar el conocimiento que he ido adquiriendo, logrando una visión mucho más amplia del derecho que la que tenía antes. Incluso, en mi práctica profesional, he podido relacionar cada aprendizaje de mis causas, con mis notas previas, con las distintas leyes sustantivas y de procedimiento, e incluso con usos forenses. La perspectiva que te otorga un sistema como este, no tiene comparación. Por eso se denominan modernos gestores de conocimiento personal.
