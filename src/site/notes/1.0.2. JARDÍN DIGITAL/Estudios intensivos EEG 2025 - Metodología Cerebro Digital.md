@@ -28,7 +28,8 @@ La metodología del cerebro digital rompe barreras y refuerza nuestra confianza 
 3. Te actualizarás en cuanto a los modernos gestores de conocimiento personal, posicionándote a la vanguardia de la gestión de la información y el conocimiento. 
 4. Aprenderás a capturar y almacenar información útil en tus notas, distinguiendo qué es información just-in-time y cuál es just-in-case.
 5. Memorizarás una cantidad considerable de información, en poco tiempo. 
-6. Este sistema te servirá no sólo para el examen de grado sino que para toda tu vida personal y profesional.
+6. Podrás configurar tu propio asistente de inteligencia artificial, para interactuar con tus notas. 
+7. Este sistema te servirá no sólo para el examen de grado sino que para toda tu vida personal y profesional.
 
 
 ## Cómo se procederá a las sesiones de estudio
@@ -43,8 +44,19 @@ La metodología del cerebro digital rompe barreras y refuerza nuestra confianza 
 Se conferirá una copia exacta del cerebro digital del profesor, con todas las herramientas útiles para que gestiones tu conocimiento. También, apuntes y códigos legales en formato de nota, para que comiences de inmediato a conectar las ideas. 
 Finalmente, se suministrará material de estudio propio y de terceros. 
 
-## Del ingreso y el precio
+## Del ingreso y el plan mensual
 
-Los interesados podrán acceder a un grupo de Whatsapp donde compartiremos datos para resolver los ejercicios de grado, trivia con preguntas y respuestas, y también enviaremos los enlaces para acceder a las clases. 
-El gradista podrá tomar la clase que estime necesaria: ejemplo, si considera que su formación en derecho civil es muy buena, puede tomar sólo procesal y constitucional. 
-Cada ingreso a una clase tendrá el valor de $4000. 
+Los interesados podrán acceder a un grupo de Whatsapp donde compartiremos datos para resolver los ejercicios de grado, trivia con preguntas y respuestas, y también enviaremos los enlaces para acceder a las clases.
+
+En cuanto a las clases, gradista podrá tomar la clase que estime necesaria: ejemplo, si considera que su formación en derecho civil es muy buena, puede tomar sólo procesal y constitucional. Estas quedarán grabadas.
+
+Por supuesto, al ser las primeras clases introductorias al curso, no se cobrarán, y se fijará una fecha para poder ingresar.
+
+Para conocer el valor del plan mensual, comunícate a:
+
+> Whatsapp: +56 959268077
+> Correo: sanchezlegalconsult@gmail.com
+
+## Inicio de clases
+
+01 de Junio 2025. 
