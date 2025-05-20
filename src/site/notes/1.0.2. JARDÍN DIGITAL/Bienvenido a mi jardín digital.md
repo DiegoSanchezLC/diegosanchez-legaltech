@@ -25,7 +25,7 @@ Sobre todo esto hablo en este sitio. ¡Espero te sirva!
 
 > [!important] Cerebro Digital aplicado
 > 1. [[1.0.2. JARDÍN DIGITAL/Netclip - Un portaaviones para tus páginas web útiles\|Netclip - Un portaaviones para tus páginas web útiles]]
-> 2. 
+> 2. [[1.0.2. JARDÍN DIGITAL/Un asistente de inteligencia artificial, gratuito y privado, que interactúa con tus notas\|Un asistente de inteligencia artificial, gratuito y privado, que interactúa con tus notas]]
 
 > [!tip] Derecho y doctrina. (Próximamente)
 
