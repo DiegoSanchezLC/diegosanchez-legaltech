@@ -59,4 +59,4 @@ Para conocer el valor del plan mensual, comunícate a:
 
 ## Inicio de clases
 
-01 de Junio 2025. 
+Lunes 09 de Junio 2025. 
