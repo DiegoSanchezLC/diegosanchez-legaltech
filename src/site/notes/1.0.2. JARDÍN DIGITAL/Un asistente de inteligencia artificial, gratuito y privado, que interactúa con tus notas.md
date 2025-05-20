@@ -65,6 +65,9 @@ Dejaré un recuadro a modo de resumen sobre los modelos que utilicé.
 |     Mistral      |                  Local                  |                                                           Gratis                                                           |                                     No                                      |  Regular  |           Lenta capacidad de respuesta. Requiere buen hardware. Pequeños errores           |
 | ChatGPT (OpenAI) |            Local y en línea             |                                         $25.000 App. mensuales (Modelos estándar)                                          |                          Sí (Por medio de Copilot)                          | Muy bueno |                        Buen desempeño en general. Casi sin errores.                        |
 | Gemini (Google)  |            Local y en línea             | Gratis para modelos estándar sin límite de consultas. Modelos avanzados contienen límite razonable de consultas mensuales. |                          Sí (Por medio de Copilot)                          | Muy bueno |                        Buen desempeño en general. Casi sin errores.                        |
+
+---
+
 La búsqueda finalizó con la vinculación de la API de Gemini al complemento Copilot dentro de Obsidian. El hecho de utilizar un lenguaje de IA competente y rápido como es gemini-2.0-flash, junto al contexto de tus notas, es una gran ventaja. Todavía más cuando puedes cifrar la salida para así proteger la privacidad de tus datos.
 
 Una vez que tienes el sistema indicado para trabajar con un contexto de conocimiento especializado, debes darle una prioridad de consulta al mismo. En mi bóveda, ciertas carpetas no son de interés para efectos de generar un contexto adecuado. 
