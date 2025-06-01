@@ -135,7 +135,7 @@ R: Puedes obtener la copia de una resolución exenta del Registro Civil en la Of
 - [[0.4. TODO DERECHO/1.2. PROCESAL/1.2.2. Reglas generales y proc. declarativos/12. Notificaciones judiciales\|12. Notificaciones judiciales]]
 - [[0.4. TODO DERECHO/1.1 CIVIL y FAMILIA/Legislación actualizada/DFL Nº2.128 Reglamento orgánico del Registro Civil\|DFL Nº2.128 Reglamento orgánico del Registro Civil]]
 - [[0.4. TODO DERECHO/1.7. ADMINISTRATIVO Y MILITAR/1.4.1. Legislación actualizada/Ley Nº19.880 Bases del procedimiento administrativo\|Ley Nº19.880 Bases del procedimiento administrativo]]
-- [[0.1. BIBLIOTECA MAESTRA/ARCHIVO EXAMEN DE GRADO/Casos prácticos Procesal Civil y Procesal Penal\|Casos prácticos Procesal Civil y Procesal Penal]]
+- [[2.6. NOTAS SATÉLITE/ARCHIVO EXAMEN DE GRADO/Casos prácticos Procesal Civil y Procesal Penal\|Casos prácticos Procesal Civil y Procesal Penal]]
 
 ---
 
