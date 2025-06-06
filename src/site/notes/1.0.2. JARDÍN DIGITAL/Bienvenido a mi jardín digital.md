@@ -22,8 +22,9 @@ Sobre todo esto hablo en este sitio. ¡Espero te sirva!
 > 
 
 > [!important] Cerebro Digital aplicado
-> 8. [[1.0.2. JARDÍN DIGITAL/Netclip - Un portaaviones para tus páginas web útiles\|Netclip - Un portaaviones para tus páginas web útiles]]
-> 9. [[1.0.2. JARDÍN DIGITAL/Un asistente de inteligencia artificial, gratuito y privado, que interactúa con tus notas\|Un asistente de inteligencia artificial, gratuito y privado, que interactúa con tus notas]]
+> 1. [[1.0.2. JARDÍN DIGITAL/ANKI para memorizar todo lo que te importa, en poco tiempo (Tu sistema definitivo de memorización activa)\|ANKI para memorizar todo lo que te importa, en poco tiempo (Tu sistema definitivo de memorización activa)]]
+> 2. [[1.0.2. JARDÍN DIGITAL/Netclip - Un portaaviones para tus páginas web útiles\|Netclip - Un portaaviones para tus páginas web útiles]]
+> 3. [[1.0.2. JARDÍN DIGITAL/Un asistente de inteligencia artificial, gratuito y privado, que interactúa con tus notas\|Un asistente de inteligencia artificial, gratuito y privado, que interactúa con tus notas]]
 
 > [!tip] Derecho y doctrina. (Próximamente)
 
