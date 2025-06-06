@@ -26,3 +26,12 @@ Sobre todo esto hablo en este sitio. ¡Espero te sirva!
 > 9. [[1.0.2. JARDÍN DIGITAL/Un asistente de inteligencia artificial, gratuito y privado, que interactúa con tus notas\|Un asistente de inteligencia artificial, gratuito y privado, que interactúa con tus notas]]
 
 > [!tip] Derecho y doctrina. (Próximamente)
+
+
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/2kTcOSsQpV4" 
+title="YouTube video player" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+allowfullscreen></iframe>
+
