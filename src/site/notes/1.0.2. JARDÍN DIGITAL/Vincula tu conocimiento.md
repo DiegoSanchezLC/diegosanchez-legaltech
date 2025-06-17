@@ -4,7 +4,7 @@
 
 # Por qué vincular nuestro conocimiento 
 
-El conocimiento no es está separado entre sí, sino que está conectado. 
+El conocimiento no está separado entre sí, sino que está conectado. 
 Grandes mentes a lo largo de la historia han vinculado su conocimiento para lograr grandes obras. ¿Cuál es la razón de esto? El hecho de vincular datos o información de forma explícita o implícita, es lo que genera los puentes que llamamos visión o conocimiento. Echa un vistazo al siguiente esquema:
 
 ![Distinción conocimiento.jpg](/img/user/1.0.2.%20CEREBRO%20DIGITAL/2.%20S%C3%A9%20el%20estudiante%20definitivo/ANEXOS/Distinci%C3%B3n%20conocimiento.jpg)
