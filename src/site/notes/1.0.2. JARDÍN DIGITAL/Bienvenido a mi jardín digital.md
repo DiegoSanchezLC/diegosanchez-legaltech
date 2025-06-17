@@ -15,7 +15,7 @@ Sobre todo esto hablo en este sitio. ¡Espero te sirva!
 > 1. [[1.0.2. JARDÍN DIGITAL/Los 6 momentos de la información\| Los 6 momentos de la información]]
 > 2. [[1.0.2. JARDÍN DIGITAL/Captura la información\|Captura la información, en forma rápida y sencilla]]
 > 3. [[1.0.2. JARDÍN DIGITAL/Almacena la información\|Almacena la información, en forma útil y segura]]
-> 4. [[1.0.2. JARDÍN DIGITAL/Vincula la información\|Vincula tu conocimiento, en forma simple o compleja]]
+> 4. [[1.0.2. JARDÍN DIGITAL/Vincula tu conocimiento\|Vincula tu conocimiento, en forma simple o compleja]]
 > 5. [[1.0.2. JARDÍN DIGITAL/Automatiza tu flujo de trabajo\|Automatiza tu flujo de trabajo, utilizando IA y asistentes expertos]]
 > 6. [[1.0.2. JARDÍN DIGITAL/Memoriza la información\|Memoriza grandes cantidades de información, en poco tiempo]]
 > 7. [[1.0.2. JARDÍN DIGITAL/Socializa tu conocimiento\|Socializa tu conocimiento, potenciando a tu entorno y seres queridos]]
