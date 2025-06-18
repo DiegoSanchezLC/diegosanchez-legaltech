@@ -5,7 +5,7 @@
 # Reflexión inicial, o por qué almacenar en forma segura
 
 Hasta hace algunos años, las personas consideraban eficiente almacenar su información y su conocimiento en documentos Word o agendas de papel. No sabían que la revolución digital iba a traer soluciones para almacenar toda su información en un solo entorno digital. Todavía más, no sabían que esas soluciones iban a ser gratuitas, privadas y de código abierto.
-El hecho de que elijas uno u otro sistema no es trivial. El almacenamiento eficiente se puede comparar al orden de tu casa. Imagina que tuvieras que salir a buscar tu almohada al patio de tu casa todos los días, o que tuvieras que buscar cada mañana en un montón de ropa la camisa adecuada para salir a trabajar. El desorden genera malestar. acumular sin sentido, también. 
+El hecho de que elijas uno u otro sistema no es trivial. **El almacenamiento eficiente se puede comparar con el orden de tu hogar**. Imagina que tuvieras que salir a buscar tu almohada al patio de tu casa todos los días, o que tuvieras que buscar cada mañana en un montón de ropa la camisa adecuada para salir a trabajar. El desorden genera malestar. acumular sin sentido, también. 
 
 Esto que razonamos también aplica para el ámbito digital. De hecho, ya existen estudios que documentan este fenómeno de malestar, el llamado Diógenes Digital. Se ha constatado que:
 1. La acumulación excesiva de archivos puede afectar el rendimiento académico.
