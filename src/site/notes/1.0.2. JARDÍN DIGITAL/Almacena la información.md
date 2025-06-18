@@ -9,7 +9,7 @@ El hecho de que elijas uno u otro sistema no es trivial. **El almacenamiento efi
 
 Esto que razonamos también aplica para el ámbito digital. De hecho, ya existen estudios que documentan este fenómeno de malestar, el llamado Diógenes Digital. Se ha constatado que:
 1. La acumulación excesiva de archivos puede afectar el rendimiento académico.
-2. El hecho de no encontrar el material adecuado puede causar estrés y ansiedad, que al ser repetitiva, deriva en un burnout o desgaste académico.
+2. El hecho de no encontrar el material adecuado puede causar estrés y ansiedad, que al ser repetitivo, deriva en un burnout o desgaste académico.
 3. Los jóvenes son una población altamente sensible a esta exposición digital.
 4. Esto suele derivar en bajas calificaciones. 
 
@@ -37,12 +37,12 @@ En cuanto a la ordenación alfanumérica, te recomiendo seguir un esquema genera
 # El uso de notas madre o notas nido
 
 Te recomiendo crear notas madre desde un inicio. Esto te facilitará encontrar notas a las cuales deseas acceder rápidamente, así como tener una visión panorámica de una materia en específico.
-Crear una carpeta para cada tema en específico es ineficiente y genera confusión. Para cada materia, puedes utilizar las carpetas. Pero para cada gran tema dentro de esas materias, deberías utilizar notas madre. Mira un ejemplo de una nota madre de cómo hacer pizza:
+Crear una carpeta para cada tema en específico es ineficiente y genera confusión. Para cada materia, puedes utilizar las carpetas. **Pero para cada gran tema dentro de esas materias, deberías utilizar notas madre**. Mira un ejemplo de una nota madre de cómo hacer pizza:
 
 ![Ejemplo nota madre pizzas.png|800](/img/user/1.0.2.%20CEREBRO%20DIGITAL/2.%20S%C3%A9%20el%20estudiante%20definitivo/ANEXOS/Ejemplo%20nota%20madre%20pizzas.png)
 
 Esta forma de ordenar tus notas sirve para cualquier tema que te propongas estudiar. Como puedes observar, lo que hice fue crear callouts de distinto color, con un título que refiere a un tema grande, y cada callout tiene una lista numerada de las notas que contiene este tema. 
-Esto podría servir incluso para tus propios emprendimientos. Ejemplo, la nota madre podría redirigir a:
+**Esto podría servir incluso para tus propios emprendimientos**. Ejemplo, la nota madre podría redirigir a:
 1. La nota que habla de tu idea original;
 2. La nota que habla de cómo ponerla en práctica;
 3. Una bitácora de los desafíos que se te presentan a diario, y cómo los has ido superando;
@@ -55,7 +55,7 @@ Esto podría servir incluso para tus propios emprendimientos. Ejemplo, la nota m
 # Un buscador que acceda no sólo a tus notas, sino a todo el contenido legible
 
 Un buscador en tu cerebro digital debería permitirte no sólo acceder al contenido de tus notas, sino de tus PDF, documentos Word no conversos, archivos Excel e incluso imágenes con texto legible. 
-La razón de esto es que **si vamos a centralizar la información en una herramienta de gestión de conocimiento personal, también deberíamos centralizar la búsqueda**. Es decir, no sólo rompemos las barreras de entrada a la información sino también de salida, facilitando una consulta rápida y completa.
+La razón de esto es que **si nos proponemos centralizar la información en una herramienta de gestión de conocimiento personal, también deberíamos centralizar su búsqueda**. Es decir, no sólo rompemos las barreras de entrada a la información sino también de salida, facilitando una consulta rápida y completa.
 
 Esto ya es posible a través de distintos complementos que favorecen la búsqueda inteligente en tu cerebro digital.
 
