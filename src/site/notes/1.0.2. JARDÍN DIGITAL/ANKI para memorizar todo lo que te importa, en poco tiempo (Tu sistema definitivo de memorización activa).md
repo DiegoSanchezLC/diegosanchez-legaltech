@@ -65,7 +65,7 @@ Entonces, viene la pregunta, ¿En qué intervalos podemos espaciar la informaci�
 
 Así, si fallas en un repaso, deberás volver a hacerlo en 1 minuto. Si aciertas, en 10 minutos. Si vuelves a acertar, en un día. Si al día siguiente recuerdas, repetirás en 4 o 6 días más. Si olvidas, volverás a ver en 10 minutos. 
 
-Mi experiencia personal es que luego del 4º o 5º repaso la información comienza a permanecer en la memoria. Tanto es así que luego es hasta fácil responder. Una tarjeta que antes se hacía en 15 segundos, ahora se responde en 5. Es decir, que no sólo memorización y retentiva son crecientes en el tiempo: también la velocidad mental para acceder a esos contenidos.
+Mi experiencia personal es que luego del 4º o 5º repaso la información comienza a permanecer en la memoria. Tanto es así que luego es hasta fácil responder. Una tarjeta que antes se hacía en 15 segundos, ahora se responde en 5. **Es decir, que no sólo memorización y retentiva son crecientes en el tiempo: también la velocidad mental para acceder a esos contenidos**.
 
 Luego, el ***active-recall*** consiste en intentar evocar la información de la memoria sin tenerla en frente, es decir, obligarnos a recordar un concepto, definición o procedimiento desde cero. Es una técnica que se combina con la repetición espaciada. Esto conlleva al denominado *testing effect*: recordar refuerza más que releer. 
 
