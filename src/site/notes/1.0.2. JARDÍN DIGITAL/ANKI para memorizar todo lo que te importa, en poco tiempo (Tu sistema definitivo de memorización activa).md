@@ -77,7 +77,7 @@ Luego, el ***active-recall*** consiste en intentar evocar la información de la 
 |    Active-recall     |    Alta     |       Alto        |        Muy alta         |
 | Repetición espaciada |   Máxima    |       Medio       |        Muy alta         |
 
-Entonces, aplicando estas dos técnicas aplanamos la curva del olvido, **establecemos una serie de conocimientos en nuestra memoria de modo de tenerlos disponibles en todo momento y lugar**; sin pagar un precio tan alto como ocurre con las sesiones maratónicas de estudio donde el estudiante lee una y otra vez un apunte y termina odiando estudiar. 
+Entonces, aplicando estas dos técnicas **establecemos una serie de conocimientos en nuestra memoria de modo de tenerlos disponibles en todo momento y lugar**; sin pagar un precio tan alto como ocurre con las sesiones maratónicas de estudio donde el estudiante lee una y otra vez un apunte y termina odiando estudiar. 
 
 Adicionalmente, **aplanamos la curva del olvido**, haciéndose cada vez más fácil recordar la información que hemos repasado con éxito en intervalos anteriores, requiriendo repasos posteriores mucho más sencillos y extendidos en el tiempo. 
 
