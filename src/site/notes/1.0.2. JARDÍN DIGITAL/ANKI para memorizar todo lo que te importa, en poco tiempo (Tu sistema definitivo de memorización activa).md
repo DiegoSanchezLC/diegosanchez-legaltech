@@ -146,7 +146,6 @@ allowfullscreen></iframe>
 > https://medium.com/@doedlingerwolfgang/my-obsession-with-anki-flashcards-the-good-and-bad-1344cefd2087
 
 
-
 ### 3. Pregunta a la comunidad de Reddit: "Estudiantes, ¿Cuál es vuestra historia de éxito con ANKI?"
 
 Pregunta a la comunidad: **Estudiantes, ¿Cuál es su historia de éxito con ANKI?**

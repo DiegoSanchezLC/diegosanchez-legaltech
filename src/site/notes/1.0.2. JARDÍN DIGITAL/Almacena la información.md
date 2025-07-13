@@ -4,7 +4,8 @@
 
 # Reflexión inicial, o por qué almacenar en forma segura
 
-Hasta hace algunos años, las personas consideraban eficiente almacenar su información y su conocimiento en documentos Word o agendas de papel. No sabían que la revolución digital iba a traer soluciones para almacenar toda su información en un solo entorno digital. Todavía más, no sabían que esas soluciones iban a ser gratuitas, privadas y de código abierto.
+Hasta hace algunos años, las personas consideraban eficiente almacenar su información y su conocimiento en documentos Word o agendas de papel. No sabían que la revolución digital iba a traer soluciones para almacenar toda su información en un solo entorno digital. Todavía más, no sabían que esas soluciones serían gratuitas, privadas y de código abierto.
+
 El hecho de que elijas uno u otro sistema no es trivial. **El almacenamiento eficiente se puede comparar con el orden de tu hogar**. Imagina que tuvieras que salir a buscar tu almohada al patio de tu casa todos los días, o que tuvieras que buscar cada mañana en un montón de ropa la camisa adecuada para salir a trabajar. **El desorden genera malestar; acumular sin sentido, también**. 
 
 Esto que razonamos también aplica para el ámbito digital. De hecho, ya existen estudios que documentan este fenómeno de malestar, el llamado Diógenes Digital. Se ha constatado que:
@@ -21,11 +22,12 @@ Por esto, almacenar de forma inteligente tiene gran importancia. Un sistema de g
 3. Realizar un trabajo criterioso, capturando información de interés en el momento específico, en espacios perfectamente determinados;
 4. Pensar a largo y no a corto plazo, permitiendo utilizar la información almacenada para estudiar y trabajar correctamente, y no sólo eso, darle vida útil a esta información a través de experiencias, enlaces, IA y asistentes expertos. 
 
-Todo esto implica que el rendimiento que obtienes de tu cerebro digital aumenta con el tiempo: mientras más y mejor conocimiento almacenes dentro de él, mejores serán tus herramientas de trabajo y más profundo será tu razonamiento para enfrentar la realidad.
+Todo esto implica que **el rendimiento que obtienes de tu cerebro digital aumenta con el tiempo**: mientras más y mejor conocimiento almacenes dentro de él, mejores serán tus herramientas de trabajo y más profundo será tu razonamiento para enfrentar la realidad.
 
 # Las clásicas carpetas, pero con un enfoque distinto
 
 Obsidian al crear tu bóveda crea una carpeta, así sin más. De hecho, si accedes desde el explorador de archivos de Windows, podrás ver que dentro de estas carpetas están tus notas en formato Markdown, las cuales son legibles incluso con un bloc de notas.
+
 Ordinariamente hemos ordenado nuestros archivos por carpetas y eso lo hemos criticado. Pero las carpetas no son malas, sino que utilizarlas deficientemente genera malestar en nuestra gestión de información. No es lo mismo ordenar un montón de archivos por carpetas en tu escritorio, que disponer carpetas dentro de un sistema centralizado, con un orden y propiedades determinados, para gestionar tu conocimiento personal. 
 
 Mi recomendación en este ámbito es que pienses primero en un orden para tus carpetas, el cual podría ser por materias o cronológico según tu malla de estudio. Luego, piensa un orden que vaya del más al menos importante. Esto es crucial pues las carpetas más importantes debieran ser las que veas primero. 
@@ -37,11 +39,13 @@ En cuanto a la ordenación alfanumérica, te recomiendo seguir un esquema genera
 # El uso de notas madre o notas nido
 
 Te recomiendo crear notas madre desde un inicio. Esto te facilitará encontrar notas a las cuales deseas acceder rápidamente, así como tener una visión panorámica de una materia en específico.
+
 Crear una carpeta para cada tema en específico es ineficiente y genera confusión. Para cada materia, puedes utilizar las carpetas. **Pero para cada gran tema dentro de esas materias, deberías utilizar notas madre**. Mira un ejemplo de una nota madre de cómo hacer pizza:
 
 ![Ejemplo nota madre pizzas.png|800](/img/user/1.0.2.%20CEREBRO%20DIGITAL/2.%20S%C3%A9%20el%20estudiante%20definitivo/ANEXOS/Ejemplo%20nota%20madre%20pizzas.png)
 
 Esta forma de ordenar tus notas sirve para cualquier tema que te propongas estudiar. Como puedes observar, lo que hice fue crear callouts de distinto color, con un título que refiere a un tema grande, y cada callout tiene una lista numerada de las notas que contiene este tema. 
+
 **Esto podría servir incluso para tus propios emprendimientos**. Ejemplo, la nota madre podría redirigir a:
 1. La nota que habla de tu idea original;
 2. La nota que habla de cómo ponerla en práctica;
@@ -55,9 +59,10 @@ Esta forma de ordenar tus notas sirve para cualquier tema que te propongas estud
 # Un buscador que acceda no sólo a tus notas, sino a todo el contenido legible
 
 Un buscador en tu cerebro digital debería permitirte no sólo acceder al contenido de tus notas, sino de tus PDF, documentos Word no conversos, archivos Excel e incluso imágenes con texto legible. 
+
 La razón de esto es que **si nos proponemos centralizar la información en una herramienta de gestión de conocimiento personal, también deberíamos centralizar su búsqueda**. Es decir, no sólo rompemos las barreras de entrada a la información sino también de salida, facilitando una consulta rápida y completa.
 
-Esto ya es posible a través de distintos complementos que favorecen la búsqueda inteligente en tu cerebro digital.
+Esto ya es posible a través de distintos complementos que favorecen la búsqueda inteligente en tu cerebro digital, como Omnisearch.
 
 
 # La biblioteca maestra

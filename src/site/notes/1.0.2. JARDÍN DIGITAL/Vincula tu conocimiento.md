@@ -5,12 +5,14 @@
 # Por qué vincular nuestro conocimiento 
 
 El conocimiento no está separado entre sí, sino que está conectado. 
+
 Grandes mentes a lo largo de la historia han vinculado su conocimiento para lograr grandes obras. ¿Cuál es la razón de esto? El hecho de vincular datos o información de forma explícita o implícita, es lo que genera los puentes que llamamos visión o conocimiento. Echa un vistazo al siguiente esquema:
 
 ![Distinción conocimiento.jpg](/img/user/1.0.2.%20CEREBRO%20DIGITAL/2.%20S%C3%A9%20el%20estudiante%20definitivo/ANEXOS/Distinci%C3%B3n%20conocimiento.jpg)
 
 Los datos vienen a ser la información en bruto, sin ser pulida ni procesada. La información tiene asignadas categorías y comienza a tener sentido. El conocimiento son las conexiones que generamos a partir de la información que vamos procesando, ejemplo, a través de esquemas lógicos. 
-Puedes ver que el estado más profundo se denomina sabiduría (wisdom) que implica crear conexiones o pasillos entre distintos tipos de conocimiento que ya tienes internalizados, lo que permite realizar analogías complejas,  análisis más profundos e incluso idear soluciones creativas. 
+
+Puedes ver que el estado más profundo se denomina sabiduría (wisdom) que implica crear conexiones o pasillos entre distintos tipos de conocimiento que ya tienes internalizados, lo que permite realizar analogías complejas, análisis más profundos e incluso idear soluciones creativas. 
 
 Te hago una pregunta. En una empresa, ¿Quién tendrá más chance de generar una solución a un problema humano?
 1. Un ingeniero que sólo se dedica a hacer su trabajo. Lo hace muy bien, pero no suele interactuar con los demás.
@@ -30,6 +32,7 @@ El que te he descrito anteriormente es un esquema mental. Una persona está insa
 Este esquema mental es muy simple, pero muy efectivo y puede aplicar para distintos ámbitos de tu vida. Como aquel, puedes desarrollar otros más. El punto es que para llegar a estos razonamientos debes vincular tu experiencia y conocimiento. En el caso descrito: Experiencia personal, psicología y malla curricular. El estudiante afrontó los desafíos con otra visión y superó sus propias limitantes. 
 
 Lo que te debería quedar es que debes vincular tu conocimiento. Esto no sólo te hará un mejor profesional, también una mejor persona. Esto, pues te permitirá conocer la causa de ciertos hechos, y mejores formas de abordarlos. 
+
 Al principio te dije que grandes mentes a lo largo de la historia han vinculado su conocimiento. De estos hay muchos ejemplos a lo largo de los siglos, pero el denominador común es su facilidad para ver las conexiones profundas entre distintas áreas de conocimiento. 
 
 1. Leonardo Da Vinci: utilizaba sus bocetos artísticos para explicar la anatomía, mecánica y geometría. Combinó observación científica y precisión artística. 
@@ -41,6 +44,7 @@ Al principio te dije que grandes mentes a lo largo de la historia han vinculado 
 7. Lev Vygotsky: Mezcló psicología, sociología, pedagogía y lingüística para explicar fenómenos como la “zona de desarrollo próximo”, que describe cómo el aprendizaje se potencia en entornos colaborativos.
 
 Este ejercicio que han hecho profusamente las grandes mentes de nuestra historia, también lo puedes realizar tú. La invitación que hago es a que te atrevas a pensar sin límites, que seas curioso, y utilices las herramientas de gestión de conocimiento personal para generar enlaces y ampliar tus horizontes. 
+
 Pero bueno, quien sabe, a lo mejor logras grandes hazañas utilizando este sistema.
 
 # Qué dice la ciencia sobre vincular las ideas
@@ -60,7 +64,9 @@ La evidencia citada anteriormente puede ser vinculada con la metodología del ce
 
 ## La vinculación simple es textual, se da explícitamente 
 
-Una vinculación simple se da textualmente, es decir, salta a la vista. Es la forma más sencilla de vincular conocimiento, y que pese a su simplicidad puede ser muy útil. ¿Por qué, te preguntarás, enlazar de forma simple nuestras ideas? Uno de los complementos de Obsidian, contiene una función llamada Strange New Worlds (Como puedes ver el nombre es bastante poético, e infiere su función). Este plugin SNW nos facilita ver todos los enlaces que apuntan a una idea específica. Ejemplo, apretando el botón de SNW puedes ver todas las notas que refieren al  [[0.4. TODO DERECHO/1.2. PROCESAL/1.2.6. Legislación actualizada/CPC Código de Procedimiento Civil#ART 254 .\|artículo 254 del código de procedimiento civil]]. Luego, cuando vuelvas a ver un asunto que refiere a los requisitos de la demanda, podrás ver este enlace que has creado anteriormente. De alguna forma, es como llevar un historial de tu propio conocimiento. 
+Una vinculación simple se da textualmente, es decir, salta a la vista. Es la forma más sencilla de vincular conocimiento, y que pese a su simplicidad puede ser muy útil. ¿Por qué, te preguntarás, enlazar de forma simple nuestras ideas? 
+
+Uno de los complementos de Obsidian, contiene una función llamada Strange New Worlds (Como puedes ver el nombre es bastante poético, e infiere su función). Este plugin SNW nos facilita ver todos los enlaces que apuntan a una idea específica. Ejemplo, apretando el botón de SNW puedes ver todas las notas que refieren al  [[0.4. TODO DERECHO/1.2. PROCESAL/1.2.6. Legislación actualizada/CPC Código de Procedimiento Civil#ART 254 .\|artículo 254 del código de procedimiento civil]]. Luego, cuando vuelvas a ver un asunto que refiere a los requisitos de la demanda, podrás ver este enlace que has creado anteriormente. De alguna forma, es como llevar un historial de tu propio conocimiento. 
 
 Veamos algunos ejemplos para que lo tengas más claro:
 1. En el caso del derecho, una vinculación simple podría ser una referencia a un artículo de una ley, o a un código de leyes. También, podría ser una referencia a otra materia que es aplicable a la primera, ejemplo, que las disposiciones del Libro I del Código de Procedimiento Civil, aplican a la generalidad de los procedimientos judiciales. Es una vinculación que salta a la vista, pues la misma ley lo menciona, y así enlazas tus notas con materia de clases de Derecho Procesal (nota A), junto con el Libro I de la citada disposición (nota B). 
@@ -75,6 +81,7 @@ Tampoco se trata de que nos pongamos a estudiar de todo como locos. Esto pues ha
 ## La vinculación compleja se da implícitamente, o luego de una serie de razonamientos mentales 
 
 La vinculación compleja tiene mucho de esquemas mentales y de razonamiento profundo. No voy a andar con rodeos. Vincular de forma compleja requiere trabajo. Es decir, que estas ideas de vínculos implícitos no vendrán por arte de magia, sino cuando estés trabajando o estudiando. 
+
 En esto, juega un rol esencial la lógica y la capacidad de interpretación. Puedo dar una serie de ejemplos del área jurídica, pero haré mi mejor esfuerzo por encontrar vinculaciones complejas en el conocimiento de distintas áreas. 
 
 1. Medicina: un paciente presenta fiebre moderada, 38.5 Cº, disnea, tos seca y opacidades bilaterales difusas en la radiografía de tórax. La observación de opacidades bilaterales difusas y tos seca de varios días de evolución, infieren patógenos atípicos, como mycoplasma pneumoniae. Aquí ya tenemos a lo menos tres notas: una que trata sobre las opacidades, otra sobre la tos seca y otra sobre los patógenos atípicos. Luego, factores como la convivencia en lugares cerrados o la exposición a aves, podría hacer sospechar la presencia de psitacosis. En todo este proceso, se cruzan los signos clínicos, radiografía y los factores epidemiológicos. Estas últimas también podrían ser notas o bloques de notas perfectamente determinados. El punto es que el estudiante de medicina realizó una vinculación compleja entre distintas notas que reflejan su conocimiento. Integró, relacionó e llegó a un diagnóstico médico. 
@@ -82,13 +89,14 @@ En esto, juega un rol esencial la lógica y la capacidad de interpretación. Pue
 3. Gastronomía: Partiendo de la premisa de que debemos espolvorear sal sobre las rodajas de berenjena y dejarlas reposar por 30 minutos, de forma implícita llegamos a que la sal extrae parte del agua de la berenjena por osmosis, reduciendo su amargos y ayudando a colapsar las paredes celulares, modificando la textura de la verdura. Esto permitirá que la berenjena absorba menos aceite al momento de freír. Aquí podemos detectar a lo menos tres notas relacionadas entre sí: Nota única sobre la berenjena y sus características, una nota sobre los efectos de la sal en reposo con los alimentos, otra sobre el concepto de osmosis (súmale las definiciones de Note Definitions), y otra sobre la textura de los alimentos, en particular, un sub título sobre la textura de determinadas verduras y qué hacer con ellas. Haciendo este ejercicio, el cocinero entiende muchísimo mejor la labor que está realizando. 
 4. Derecho: Se ha señalado por la doctrina que el recurso de casación en la forma es un recurso de derecho estricto. Esto es una contraposición de la premisa de que es posible invocar el RCFA en la omisión de los requisitos de los artículos 640 y 826, referidas a las sentencias definitivas dictadas por jueces árbitros arbitradores o en asuntos de jurisdicción voluntaria. Esto se haría por analogía de lo que señala el artículo 170 del código de procedimiento civil en la materia. Entonces, tenemos dos posiciones: una, que señala que es imposible hacer analogía de una norma de derecho estricto, y otra que permitiría la interposición del recurso aceptando las normas como símiles. Aquí hay por lo menos cinco enlaces posibles: La nota introductoria del recurso de casación en la forma, que habla de su procedencia; tres enlaces simples hacia las normas que hemos mencionado, es decir, a los artículos del CPC; un enlace a la nota que habla de los tipos de recursos procesales, distinguiendo entre ellos los de derecho estricto; otro enlace a la nota que habla de la interpretación de la ley, que menciona la analogía. Como puedes observar, en este proceso de entendimiento de las posiciones doctrinarias, hemos vinculado materias del derecho, normas y argumentos a favor de una u otra posición. 
 
-La conclusión es que a través de la vinculación logramos una forma mucho más profunda de razonamiento. El hecho de vincular nuestro conocimiento nos da una visión del mundo mucho más clara. Esto, a largo plazo, puede devenir en sabiduría. 
+La conclusión es que a través de la vinculación logramos una forma mucho más profunda de razonamiento. El hecho de vincular nuestro conocimiento nos da una visión del mundo mucho más clara. 
+
 Sin embargo, es recomendable realizar este ejercicio dejando evidencia de tus razonamientos simples o complejos. Debido a ello es que te enseño a utilizar las funciones del cerebro digital: para que lleves una historia de tu conocimiento, y este no se desvanezca con el tiempo como una simple buena idea. 
 
 # Herramientas digitales que facilitan vincular el conocimiento dentro de Obsidian
 
 1. Las transclusiones o enlaces de Obsidian permiten vincular ideas entre notas, bloques de ideas, títulos y hasta libros en formato PDF. Tu conocimiento acumulado se vuelve uno con tus recursos digitales dentro de un cerebro digital. 
-2. Con Strange New Worlds (SNW) puedes llevar un track record de los vínculos de tu conocimiento. Así, es posible saber a ciencia cierta todas las notas en que se menciona, analiza o explica un determinado precepto legal, lo que tiene gran utilidad para los estudios y la investigación. 
+2. Con Strange New Worlds (SNW) puedes llevar un *track record* de los vínculos de tu conocimiento. Así, es posible saber a ciencia cierta todas las notas en que se menciona, analiza o explica un determinado precepto legal, lo que tiene gran utilidad para los estudios y la investigación. 
 3. Con Excalidraw, puedes modelar visualmente tu conocimiento, explicando con tus propios esquemas mentales ideas complejas; y no sólo eso, sino que vincular estos esquemas con otras ideas contenidas en tus notas. 
 4. Con Copilot, puedes utilizar una serie de asistentes de inteligencia artificial para realizar una serie de tareas que para un cerebro humano son complejas: puedes consultar sobre conocimiento apilable alojado en tus notas, de modo de trabajar con él como insumos de trabajo; puedes evocar o traer a la memoria conocimientos que capturaste "just in case", es decir, para cuando los necesites en el futuro; puedes automatizar tareas, vinculando una serie de indicaciones lógicas contenidas en tus notas; entre muchas otras funciones. 
 5. Con las integraciones de Kanban y Google Calendar, puedes vincular tus notas con las tareas alojadas en estos complementos, de modo de que tu conocimiento esté vinculado con tu productividad diaria. 
