@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/0-4-todo-derecho/2-0-jurisprudencia-comentada/criterios-jurisprudenciales-interdiccion-por-disipacion/"}
 ---
 
-
-> [!info] Puedes descargar este documento y otros recursos digitales en formato PDF desde el siguiente enlace:
-> DRIVE
-
 # Sentencia Rol C-3889-2022, dictada por el 1º Juzgado Civil de Iquique. "No cabe acoger la demanda de interdicción por dilapidación, si no se prueba con detalle y pormenor los hechos que la fundan con un cierto grado mínimo, máxime cuando la prueba rendida da cuenta de estrechos lazos de amistad entre los testigos y la parte que los requiere; aunque es dable acoger la pretensión de interdicción por demencia en el mismo juicio, configurando plena prueba el informe pericial del Servicio Médico Legal"
 
 [[Fuentes con Fuentes (interdicción por disipación).pdf]]
@@ -173,8 +169,4 @@ La **sentencia definitiva** fue dictada con fecha 15 de octubre de 2020, la cual
 10. Como diligencias de cumplimiento de sentencia, el tribunal dispuso lo siguiente: Inscribir el fallo en el Registro de Interdicciones y Prohibiciones del CBR de Santiago; notificar al público mediante tres avisos en un periódico de circulación local; aceptar el cargo de curador definitivo; A este último se le impuso deber de realizar [[0.4. TODO DERECHO/1.2. PROCESAL/1.2.6. Legislación actualizada/CPC Código de Procedimiento Civil#Título VII Del inventario solemne\|inventario solemne]]. 
 Finalmente, el actor se dispuso a realizar el inventario solemne, conforme a la ley. 
 El expediente no sólo es de utilidad por los argumentos vertidos por el tribunal para dar lugar a la interdicción por disipación, sino como aprendizaje respecto a la rendición de prueba en esta materia y la forma de cumplir con el inventario solemne. 
-
-# Sentencia Rol 80-2015, dictada por la Ilustrísima Corte de Apelaciones de Coyhaique: "..."
-
-Previo a entrar al fondo de la sentencia de la Ilustrísima Corte de Apelaciones de Coyhaique, hagamos un resumen de lo obrado en primera instancia. 
 

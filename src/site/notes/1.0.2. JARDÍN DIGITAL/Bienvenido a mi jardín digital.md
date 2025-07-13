@@ -26,7 +26,9 @@ Sobre todo esto hablo en este sitio. ¡Espero te sirva!
 > 2. [[1.0.2. JARDÍN DIGITAL/Netclip - Un portaaviones para tus páginas web útiles\|Netclip - Un portaaviones para tus páginas web útiles]]
 > 3. [[1.0.2. JARDÍN DIGITAL/Un asistente de inteligencia artificial, gratuito y privado, que interactúa con tus notas\|Un asistente de inteligencia artificial, gratuito y privado, que interactúa con tus notas]]
 
-> [!tip] Derecho y doctrina. (Próximamente)
+> [!tip] Derecho y doctrina. 
+> 1. [[0.4. TODO DERECHO/2.0. JURISPRUDENCIA COMENTADA/Criterios jurisprudenciales - Interdicción por disipación\|Criterios jurisprudenciales - Interdicción por disipación]]
+
 
 
 <iframe width="560" height="315" 
