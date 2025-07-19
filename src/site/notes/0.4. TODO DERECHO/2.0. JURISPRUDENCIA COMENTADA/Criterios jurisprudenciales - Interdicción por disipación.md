@@ -170,7 +170,7 @@ La **sentencia definitiva** fue dictada con fecha 15 de octubre de 2020, la cual
 Finalmente, el actor se dispuso a realizar el inventario solemne, conforme a la ley. 
 El expediente no sólo es de utilidad por los argumentos vertidos por el tribunal para dar lugar a la interdicción por disipación, sino como aprendizaje respecto a la rendición de prueba en esta materia y la forma de cumplir con el inventario solemne. 
 
-## Sentencia Rol 80-2015, dictada por la Ilustrísima Corte de Apelaciones de Coyhaique, sobre recurso de apelación interpuesto contra la sentencia definitiva dictada por el Primer Juzgado de Letras de Coyhaique número de Rol C-29-2013 "..."
+## Sentencia Rol 80-2015, dictada por la Ilustrísima Corte de Apelaciones de Coyhaique, sobre recurso de apelación interpuesto contra la sentencia definitiva dictada por el Primer Juzgado de Letras de Coyhaique número de Rol C-29-2013 "El actor tiene la carga de la prueba respecto a los hechos dilapidatorios, los cuales deben configurar habitualidad. Asimismo, la prueba debe contar con certeza y precisión respecto a los hechos repetidos de dilapidación"
 
 Como preludio al análisis del fallo de segunda instancia, revisaremos escuetamente lo pedido en la demanda, lo expuesto en la sentencia definitiva, así como en el recurso de apelación contra la sentencia definitiva de primera instancia. 
 
