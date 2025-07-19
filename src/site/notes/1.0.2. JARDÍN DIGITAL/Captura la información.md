@@ -66,7 +66,7 @@ La gracia del plugin es que cada vez que escribas la expresión, te mostrará el
 A diferencia de otras funciones de Obsidian que sí puedes ver en esta página web, como los enlaces a otras notas, esto de las definiciones no se verá en la página web que estás leyendo, pues Digital Garden aún no tiene compatibilidad con las definiciones. Por eso te dejo una captura de cómo funciona: cada vez que escribas la palabra o concepto, esta aparecerá subrayada en tu nota, y si posicionas tu cursor sobre ella, te mostrará la definición. 
 
 
-![Incardinar.jpg|500](/img/user/Z%20MOVER/Incardinar.jpg)
+![Incardinar.jpg|500](/img/user/3.0.%20TODO%20LO%20DEM%C3%81S/Z%20MOVER/Incardinar.jpg)
 
 > [!important] Qué logramos con esto:
 > 1. Nunca partir de cero: el estudiante o profesional nunca partirá de cero con los conceptos que trabaja diariamente, pues el sistema constantemente lo retroalimentará respecto a las palabras o conceptos difíciles.
