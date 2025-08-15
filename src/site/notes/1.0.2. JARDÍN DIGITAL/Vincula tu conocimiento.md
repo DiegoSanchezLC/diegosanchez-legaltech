@@ -8,7 +8,7 @@ El conocimiento no está separado entre sí, sino que está conectado.
 
 Grandes mentes a lo largo de la historia han vinculado su conocimiento para lograr grandes obras. ¿Cuál es la razón de esto? El hecho de vincular datos o información de forma explícita o implícita, es lo que genera los puentes que llamamos visión o conocimiento. Echa un vistazo al siguiente esquema:
 
-![Distinción conocimiento.jpg](/img/user/0.5.%20PROYECTOS%20E%20INNOVACI%C3%93N/3.%20S%C3%A9%20el%20estudiante%20definitivo/ANEXOS/Distinci%C3%B3n%20conocimiento.jpg)
+![Distinción conocimiento.jpg](/img/user/0.5.%20PROYECTOS%20E%20INNOVACI%C3%93N/5.%20S%C3%A9%20el%20estudiante%20definitivo/ANEXOS/Distinci%C3%B3n%20conocimiento.jpg)
 
 Los datos vienen a ser la información en bruto, sin ser pulida ni procesada. La información tiene asignadas categorías y comienza a tener sentido. El conocimiento son las conexiones que generamos a partir de la información que vamos procesando, ejemplo, a través de esquemas lógicos. 
 

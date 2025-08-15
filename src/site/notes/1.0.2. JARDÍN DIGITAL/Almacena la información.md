@@ -42,7 +42,7 @@ Te recomiendo crear notas madre desde un inicio. Esto te facilitará encontrar n
 
 Crear una carpeta para cada tema en específico es ineficiente y genera confusión. Para cada materia, puedes utilizar las carpetas. **Pero para cada gran tema dentro de esas materias, deberías utilizar notas madre**. Mira un ejemplo de una nota madre de cómo hacer pizza:
 
-![Ejemplo nota madre pizzas.png|800](/img/user/0.5.%20PROYECTOS%20E%20INNOVACI%C3%93N/3.%20S%C3%A9%20el%20estudiante%20definitivo/ANEXOS/Ejemplo%20nota%20madre%20pizzas.png)
+![Ejemplo nota madre pizzas.png|800](/img/user/0.5.%20PROYECTOS%20E%20INNOVACI%C3%93N/5.%20S%C3%A9%20el%20estudiante%20definitivo/ANEXOS/Ejemplo%20nota%20madre%20pizzas.png)
 
 Esta forma de ordenar tus notas sirve para cualquier tema que te propongas estudiar. Como puedes observar, lo que hice fue crear callouts de distinto color, con un título que refiere a un tema grande, y cada callout tiene una lista numerada de las notas que contiene este tema. 
 

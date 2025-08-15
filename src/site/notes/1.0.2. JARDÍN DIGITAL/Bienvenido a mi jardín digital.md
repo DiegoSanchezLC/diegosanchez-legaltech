@@ -5,7 +5,7 @@
 
 # Mensaje de bienvenida
 
-![Nuevo Banner Diego Sánchez Licenciado.png](/img/user/0.5.%20PROYECTOS%20E%20INNOVACI%C3%93N/3.%20S%C3%A9%20el%20estudiante%20definitivo/ANEXOS/Nuevo%20Banner%20Diego%20S%C3%A1nchez%20Licenciado.png)
+![Nuevo Banner Diego Sánchez Licenciado.png](/img/user/0.5.%20PROYECTOS%20E%20INNOVACI%C3%93N/5.%20S%C3%A9%20el%20estudiante%20definitivo/ANEXOS/Nuevo%20Banner%20Diego%20S%C3%A1nchez%20Licenciado.png)
 
 ¡Bienvenido a mi Jardín Digital! Mi nombre es Diego Sánchez, y soy Licenciado en Ciencias Jurídicas y Sociales. 
 Mi interés abarca diversas áreas del derecho, y en particular, me interesa la tecnología aplicada al derecho. Mi idea es generar soluciones prácticas para este mundo digitalizado, acorde al contexto jurídico y las necesidades de los estudiantes. 
